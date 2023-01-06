@@ -2,20 +2,16 @@
 <testng-results ignored="2" total="14" passed="12" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-11-03T15:47:09 IST" name="Suite" finished-at="2022-11-03T16:02:47 IST" duration-ms="937846">
+  <suite started-at="2022-12-08T16:36:43 IST" name="Suite" finished-at="2022-12-08T16:52:24 IST" duration-ms="941331">
     <groups>
     </groups>
-    <test started-at="2022-11-03T15:47:09 IST" name="DocStorage" finished-at="2022-11-03T16:02:47 IST" duration-ms="937846">
+    <test started-at="2022-12-08T16:36:43 IST" name="DocStorage" finished-at="2022-12-08T16:52:24 IST" duration-ms="941331">
       <class name="testcases.UserStorageTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.UserStorageTest@28eaa59a]" started-at="2022-11-03T15:50:26 IST" name="setUp" finished-at="2022-11-03T15:50:36 IST" duration-ms="9742" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.UserStorageTest@28eaa59a]" started-at="2022-12-08T16:40:03 IST" name="setUp" finished-at="2022-12-08T16:40:14 IST" duration-ms="10363" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="verifyStorageCounts()[pri:1, instance:testcases.UserStorageTest@28eaa59a]" started-at="2022-11-03T15:50:36 IST" name="verifyStorageCounts" finished-at="2022-11-03T15:51:26 IST" duration-ms="50624" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- verifyStorageCounts -->
-        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.UserStorageTest@28eaa59a]" started-at="2022-11-03T15:50:36 IST" name="beforeMethod" finished-at="2022-11-03T15:50:36 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.UserStorageTest@28eaa59a]" started-at="2022-12-08T16:40:14 IST" name="beforeMethod" finished-at="2022-12-08T16:40:14 IST" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -26,7 +22,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.UserStorageTest@28eaa59a]" started-at="2022-11-03T15:51:26 IST" name="reportWrapUp" finished-at="2022-11-03T15:51:26 IST" duration-ms="1" status="PASS">
+        <test-method signature="verifyStorageCounts()[pri:1, instance:testcases.UserStorageTest@28eaa59a]" started-at="2022-12-08T16:40:14 IST" name="verifyStorageCounts" finished-at="2022-12-08T16:41:07 IST" duration-ms="52761" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyStorageCounts -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.UserStorageTest@28eaa59a]" started-at="2022-12-08T16:41:07 IST" name="reportWrapUp" finished-at="2022-12-08T16:41:07 IST" duration-ms="0" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -42,7 +42,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- reportWrapUp -->
-        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.UserStorageTest@28eaa59a]" started-at="2022-11-03T15:51:26 IST" name="beforeMethod" finished-at="2022-11-03T15:51:26 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.UserStorageTest@28eaa59a]" started-at="2022-12-08T16:41:07 IST" name="beforeMethod" finished-at="2022-12-08T16:41:07 IST" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -53,11 +53,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="verifySearchFunctionality()[pri:2, instance:testcases.UserStorageTest@28eaa59a]" started-at="2022-11-03T15:51:26 IST" name="verifySearchFunctionality" finished-at="2022-11-03T15:53:09 IST" duration-ms="103181" status="PASS">
+        <test-method signature="verifySearchFunctionality()[pri:2, instance:testcases.UserStorageTest@28eaa59a]" started-at="2022-12-08T16:41:07 IST" name="verifySearchFunctionality" finished-at="2022-12-08T16:42:57 IST" duration-ms="110748" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifySearchFunctionality -->
-        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.UserStorageTest@28eaa59a]" started-at="2022-11-03T15:53:09 IST" name="reportWrapUp" finished-at="2022-11-03T15:53:09 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.UserStorageTest@28eaa59a]" started-at="2022-12-08T16:42:57 IST" name="reportWrapUp" finished-at="2022-12-08T16:42:57 IST" duration-ms="0" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -73,7 +73,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- reportWrapUp -->
-        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.UserStorageTest@28eaa59a]" started-at="2022-11-03T15:53:09 IST" name="beforeMethod" finished-at="2022-11-03T15:53:09 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.UserStorageTest@28eaa59a]" started-at="2022-12-08T16:42:57 IST" name="beforeMethod" finished-at="2022-12-08T16:42:57 IST" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -84,11 +84,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="verifySortingFunctionality()[pri:3, instance:testcases.UserStorageTest@28eaa59a]" started-at="2022-11-03T15:53:09 IST" name="verifySortingFunctionality" finished-at="2022-11-03T15:55:01 IST" duration-ms="112011" status="PASS">
+        <test-method signature="verifySortingFunctionality()[pri:3, instance:testcases.UserStorageTest@28eaa59a]" started-at="2022-12-08T16:42:57 IST" name="verifySortingFunctionality" finished-at="2022-12-08T16:45:00 IST" duration-ms="122643" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifySortingFunctionality -->
-        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.UserStorageTest@28eaa59a]" started-at="2022-11-03T15:55:01 IST" name="reportWrapUp" finished-at="2022-11-03T15:55:01 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.UserStorageTest@28eaa59a]" started-at="2022-12-08T16:45:00 IST" name="reportWrapUp" finished-at="2022-12-08T16:45:00 IST" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -104,17 +104,17 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- reportWrapUp -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testcases.UserStorageTest@28eaa59a]" started-at="2022-11-03T15:55:01 IST" name="closeBrowser" finished-at="2022-11-03T15:55:02 IST" duration-ms="476" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testcases.UserStorageTest@28eaa59a]" started-at="2022-12-08T16:45:00 IST" name="closeBrowser" finished-at="2022-12-08T16:45:00 IST" duration-ms="477" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
       </class> <!-- testcases.UserStorageTest -->
       <class name="testcases.FileDashBoardTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.FileDashBoardTest@41fbdac4]" started-at="2022-11-03T15:55:02 IST" name="setUp" finished-at="2022-11-03T15:55:14 IST" duration-ms="11661" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.FileDashBoardTest@41fbdac4]" started-at="2022-12-08T16:45:00 IST" name="setUp" finished-at="2022-12-08T16:45:11 IST" duration-ms="10161" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.FileDashBoardTest@41fbdac4]" started-at="2022-11-03T15:55:14 IST" name="beforeMethod" finished-at="2022-11-03T15:55:14 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.FileDashBoardTest@41fbdac4]" started-at="2022-12-08T16:45:11 IST" name="beforeMethod" finished-at="2022-12-08T16:45:11 IST" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -125,11 +125,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="verifyMandatoryErrorMessage()[pri:1, instance:testcases.FileDashBoardTest@41fbdac4]" started-at="2022-11-03T15:55:14 IST" name="verifyMandatoryErrorMessage" finished-at="2022-11-03T15:55:42 IST" duration-ms="28181" status="PASS">
+        <test-method signature="verifyMandatoryErrorMessage()[pri:1, instance:testcases.FileDashBoardTest@41fbdac4]" started-at="2022-12-08T16:45:11 IST" name="verifyMandatoryErrorMessage" finished-at="2022-12-08T16:45:39 IST" duration-ms="27994" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyMandatoryErrorMessage -->
-        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.FileDashBoardTest@41fbdac4]" started-at="2022-11-03T15:55:42 IST" name="reportWrapUp" finished-at="2022-11-03T15:55:42 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.FileDashBoardTest@41fbdac4]" started-at="2022-12-08T16:45:39 IST" name="reportWrapUp" finished-at="2022-12-08T16:45:39 IST" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -145,7 +145,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- reportWrapUp -->
-        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.FileDashBoardTest@41fbdac4]" started-at="2022-11-03T15:55:42 IST" name="beforeMethod" finished-at="2022-11-03T15:55:42 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.FileDashBoardTest@41fbdac4]" started-at="2022-12-08T16:45:39 IST" name="beforeMethod" finished-at="2022-12-08T16:45:39 IST" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -156,11 +156,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="createAndUpdateFolderFunctionality()[pri:2, instance:testcases.FileDashBoardTest@41fbdac4]" started-at="2022-11-03T15:55:42 IST" name="createAndUpdateFolderFunctionality" finished-at="2022-11-03T15:56:57 IST" duration-ms="75490" status="PASS">
+        <test-method signature="createAndUpdateFolderFunctionality()[pri:2, instance:testcases.FileDashBoardTest@41fbdac4]" started-at="2022-12-08T16:45:39 IST" name="createAndUpdateFolderFunctionality" finished-at="2022-12-08T16:46:52 IST" duration-ms="73371" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createAndUpdateFolderFunctionality -->
-        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.FileDashBoardTest@41fbdac4]" started-at="2022-11-03T15:56:57 IST" name="reportWrapUp" finished-at="2022-11-03T15:56:57 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.FileDashBoardTest@41fbdac4]" started-at="2022-12-08T16:46:52 IST" name="reportWrapUp" finished-at="2022-12-08T16:46:52 IST" duration-ms="0" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -176,7 +176,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- reportWrapUp -->
-        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.FileDashBoardTest@41fbdac4]" started-at="2022-11-03T15:56:57 IST" name="beforeMethod" finished-at="2022-11-03T15:56:57 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.FileDashBoardTest@41fbdac4]" started-at="2022-12-08T16:46:52 IST" name="beforeMethod" finished-at="2022-12-08T16:46:52 IST" duration-ms="0" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -187,11 +187,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="fileUploadResetFunctionality()[pri:3, instance:testcases.FileDashBoardTest@41fbdac4]" started-at="2022-11-03T15:56:57 IST" name="fileUploadResetFunctionality" finished-at="2022-11-03T15:58:20 IST" duration-ms="83155" status="PASS">
+        <test-method signature="fileUploadResetFunctionality()[pri:3, instance:testcases.FileDashBoardTest@41fbdac4]" started-at="2022-12-08T16:46:52 IST" name="fileUploadResetFunctionality" finished-at="2022-12-08T16:48:12 IST" duration-ms="80293" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- fileUploadResetFunctionality -->
-        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.FileDashBoardTest@41fbdac4]" started-at="2022-11-03T15:58:20 IST" name="reportWrapUp" finished-at="2022-11-03T15:58:20 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.FileDashBoardTest@41fbdac4]" started-at="2022-12-08T16:48:12 IST" name="reportWrapUp" finished-at="2022-12-08T16:48:12 IST" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -207,11 +207,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- reportWrapUp -->
-        <test-method signature="fileMoveFunctionality()[pri:4, instance:testcases.FileDashBoardTest@41fbdac4]" started-at="2022-11-03T15:58:20 IST" name="fileMoveFunctionality" finished-at="2022-11-03T15:59:37 IST" duration-ms="76644" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- fileMoveFunctionality -->
-        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.FileDashBoardTest@41fbdac4]" started-at="2022-11-03T15:58:20 IST" name="beforeMethod" finished-at="2022-11-03T15:58:20 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.FileDashBoardTest@41fbdac4]" started-at="2022-12-08T16:48:12 IST" name="beforeMethod" finished-at="2022-12-08T16:48:12 IST" duration-ms="0" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -222,7 +218,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.FileDashBoardTest@41fbdac4]" started-at="2022-11-03T15:59:37 IST" name="reportWrapUp" finished-at="2022-11-03T15:59:37 IST" duration-ms="0" status="PASS">
+        <test-method signature="fileMoveFunctionality()[pri:4, instance:testcases.FileDashBoardTest@41fbdac4]" started-at="2022-12-08T16:48:12 IST" name="fileMoveFunctionality" finished-at="2022-12-08T16:49:24 IST" duration-ms="71835" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fileMoveFunctionality -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.FileDashBoardTest@41fbdac4]" started-at="2022-12-08T16:49:24 IST" name="reportWrapUp" finished-at="2022-12-08T16:49:24 IST" duration-ms="0" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -238,7 +238,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- reportWrapUp -->
-        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.FileDashBoardTest@41fbdac4]" started-at="2022-11-03T15:59:37 IST" name="beforeMethod" finished-at="2022-11-03T15:59:37 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.FileDashBoardTest@41fbdac4]" started-at="2022-12-08T16:49:24 IST" name="beforeMethod" finished-at="2022-12-08T16:49:24 IST" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -249,11 +249,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="fileCloneAndDeleteFunctionality()[pri:5, instance:testcases.FileDashBoardTest@41fbdac4]" started-at="2022-11-03T15:59:37 IST" name="fileCloneAndDeleteFunctionality" finished-at="2022-11-03T16:01:18 IST" duration-ms="101444" status="PASS">
+        <test-method signature="fileCloneAndDeleteFunctionality()[pri:5, instance:testcases.FileDashBoardTest@41fbdac4]" started-at="2022-12-08T16:49:24 IST" name="fileCloneAndDeleteFunctionality" finished-at="2022-12-08T16:51:01 IST" duration-ms="96796" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- fileCloneAndDeleteFunctionality -->
-        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.FileDashBoardTest@41fbdac4]" started-at="2022-11-03T16:01:18 IST" name="reportWrapUp" finished-at="2022-11-03T16:01:18 IST" duration-ms="2" status="PASS">
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.FileDashBoardTest@41fbdac4]" started-at="2022-12-08T16:51:01 IST" name="reportWrapUp" finished-at="2022-12-08T16:51:01 IST" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -269,7 +269,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- reportWrapUp -->
-        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.FileDashBoardTest@41fbdac4]" started-at="2022-11-03T16:01:18 IST" name="beforeMethod" finished-at="2022-11-03T16:01:18 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.FileDashBoardTest@41fbdac4]" started-at="2022-12-08T16:51:01 IST" name="beforeMethod" finished-at="2022-12-08T16:51:01 IST" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -280,11 +280,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="fileDownloadRenameFunctionality()[pri:6, instance:testcases.FileDashBoardTest@41fbdac4]" started-at="2022-11-03T16:01:18 IST" name="fileDownloadRenameFunctionality" finished-at="2022-11-03T16:02:47 IST" duration-ms="88350" status="PASS">
+        <test-method signature="fileDownloadRenameFunctionality()[pri:6, instance:testcases.FileDashBoardTest@41fbdac4]" started-at="2022-12-08T16:51:01 IST" name="fileDownloadRenameFunctionality" finished-at="2022-12-08T16:52:23 IST" duration-ms="82178" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- fileDownloadRenameFunctionality -->
-        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.FileDashBoardTest@41fbdac4]" started-at="2022-11-03T16:02:47 IST" name="reportWrapUp" finished-at="2022-11-03T16:02:47 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.FileDashBoardTest@41fbdac4]" started-at="2022-12-08T16:52:23 IST" name="reportWrapUp" finished-at="2022-12-08T16:52:23 IST" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -300,17 +300,17 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- reportWrapUp -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testcases.FileDashBoardTest@41fbdac4]" started-at="2022-11-03T16:02:47 IST" name="closeBrowser" finished-at="2022-11-03T16:02:47 IST" duration-ms="532" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testcases.FileDashBoardTest@41fbdac4]" started-at="2022-12-08T16:52:23 IST" name="closeBrowser" finished-at="2022-12-08T16:52:24 IST" duration-ms="831" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
       </class> <!-- testcases.FileDashBoardTest -->
       <class name="testcases.ClientStorageTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.ClientStorageTest@4ac3c60d]" started-at="2022-11-03T15:47:10 IST" name="setUp" finished-at="2022-11-03T15:47:21 IST" duration-ms="10993" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.ClientStorageTest@4ac3c60d]" started-at="2022-12-08T16:36:43 IST" name="setUp" finished-at="2022-12-08T16:36:57 IST" duration-ms="14317" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.ClientStorageTest@4ac3c60d]" started-at="2022-11-03T15:47:21 IST" name="beforeMethod" finished-at="2022-11-03T15:47:21 IST" duration-ms="144" status="PASS">
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.ClientStorageTest@4ac3c60d]" started-at="2022-12-08T16:36:57 IST" name="beforeMethod" finished-at="2022-12-08T16:36:57 IST" duration-ms="135" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -321,11 +321,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="verifyStorageCounts()[pri:1, instance:testcases.ClientStorageTest@4ac3c60d]" started-at="2022-11-03T15:47:21 IST" name="verifyStorageCounts" finished-at="2022-11-03T15:48:16 IST" duration-ms="55096" status="PASS">
+        <test-method signature="verifyStorageCounts()[pri:1, instance:testcases.ClientStorageTest@4ac3c60d]" started-at="2022-12-08T16:36:57 IST" name="verifyStorageCounts" finished-at="2022-12-08T16:37:52 IST" duration-ms="54871" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyStorageCounts -->
-        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.ClientStorageTest@4ac3c60d]" started-at="2022-11-03T15:48:16 IST" name="reportWrapUp" finished-at="2022-11-03T15:48:16 IST" duration-ms="4" status="PASS">
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.ClientStorageTest@4ac3c60d]" started-at="2022-12-08T16:37:52 IST" name="reportWrapUp" finished-at="2022-12-08T16:37:52 IST" duration-ms="3" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -341,7 +341,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- reportWrapUp -->
-        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.ClientStorageTest@4ac3c60d]" started-at="2022-11-03T15:48:16 IST" name="beforeMethod" finished-at="2022-11-03T15:48:16 IST" duration-ms="1" status="PASS">
+        <test-method signature="verifySearchFunctionality()[pri:2, instance:testcases.ClientStorageTest@4ac3c60d]" started-at="2022-12-08T16:37:52 IST" name="verifySearchFunctionality" finished-at="2022-12-08T16:38:36 IST" duration-ms="43781" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchFunctionality -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.ClientStorageTest@4ac3c60d]" started-at="2022-12-08T16:37:52 IST" name="beforeMethod" finished-at="2022-12-08T16:37:52 IST" duration-ms="0" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -352,11 +356,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="verifySearchFunctionality()[pri:2, instance:testcases.ClientStorageTest@4ac3c60d]" started-at="2022-11-03T15:48:16 IST" name="verifySearchFunctionality" finished-at="2022-11-03T15:48:58 IST" duration-ms="41866" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- verifySearchFunctionality -->
-        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.ClientStorageTest@4ac3c60d]" started-at="2022-11-03T15:48:58 IST" name="reportWrapUp" finished-at="2022-11-03T15:48:58 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.ClientStorageTest@4ac3c60d]" started-at="2022-12-08T16:38:36 IST" name="reportWrapUp" finished-at="2022-12-08T16:38:36 IST" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -372,7 +372,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- reportWrapUp -->
-        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.ClientStorageTest@4ac3c60d]" started-at="2022-11-03T15:48:58 IST" name="beforeMethod" finished-at="2022-11-03T15:48:58 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.ClientStorageTest@4ac3c60d]" started-at="2022-12-08T16:38:36 IST" name="beforeMethod" finished-at="2022-12-08T16:38:36 IST" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -383,11 +383,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="verifySortingFunctionality()[pri:3, instance:testcases.ClientStorageTest@4ac3c60d]" started-at="2022-11-03T15:48:58 IST" name="verifySortingFunctionality" finished-at="2022-11-03T15:50:25 IST" duration-ms="87593" status="PASS">
+        <test-method signature="verifySortingFunctionality()[pri:3, instance:testcases.ClientStorageTest@4ac3c60d]" started-at="2022-12-08T16:38:36 IST" name="verifySortingFunctionality" finished-at="2022-12-08T16:40:03 IST" duration-ms="87217" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifySortingFunctionality -->
-        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.ClientStorageTest@4ac3c60d]" started-at="2022-11-03T15:50:25 IST" name="reportWrapUp" finished-at="2022-11-03T15:50:25 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.ClientStorageTest@4ac3c60d]" started-at="2022-12-08T16:40:03 IST" name="reportWrapUp" finished-at="2022-12-08T16:40:03 IST" duration-ms="0" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -403,11 +403,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- reportWrapUp -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testcases.ClientStorageTest@4ac3c60d]" started-at="2022-11-03T15:50:25 IST" name="closeBrowser" finished-at="2022-11-03T15:50:26 IST" duration-ms="537" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testcases.ClientStorageTest@4ac3c60d]" started-at="2022-12-08T16:40:03 IST" name="closeBrowser" finished-at="2022-12-08T16:40:03 IST" duration-ms="448" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
-        <test-method is-config="true" signature="close()[pri:0, instance:testcases.ClientStorageTest@4ac3c60d]" started-at="2022-11-03T16:02:47 IST" name="close" finished-at="2022-11-03T16:02:48 IST" duration-ms="540" status="PASS">
+        <test-method is-config="true" signature="close()[pri:0, instance:testcases.ClientStorageTest@4ac3c60d]" started-at="2022-12-08T16:52:24 IST" name="close" finished-at="2022-12-08T16:52:24 IST" duration-ms="467" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close -->

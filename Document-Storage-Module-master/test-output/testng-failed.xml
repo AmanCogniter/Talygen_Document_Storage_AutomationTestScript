@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="DocStorage(failed)">
+    <classes>
+      <class name="testcases.FileDashBoardTest">
+        <methods>
+          <include name="closeBrowser"/>
+          <include name="beforeMethod"/>
+          <include name="close"/>
+          <include name="reportWrapUp"/>
+          <include name="verifyMandatoryErrorMessage"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- testcases.FileDashBoardTest -->
+    </classes>
+  </test> <!-- DocStorage(failed) -->
+</suite> <!-- Failed suite [Suite] -->
