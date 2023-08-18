@@ -12865,3 +12865,795 @@ C:\Users\aanand\eclipse-workspace\Document-Storage-Module-AmanBranch\Document-St
 2022-12-08 16:52:23,512  INFO [main] User Login Page:89 - Save clicked 
 2022-12-08 16:52:23,585  INFO [main] User Login Page:257 -  Text displayed is  - file-sample_100kB.doc
 2022-12-08 16:52:23,585  INFO [main] User Login Page:484 - File name file-sample_100kB is updated to UpdateName20221208165101
+2023-01-25 17:27:52,712  INFO [main] User Login Page:71 - User Name entered with value - gyal@mailinator.com
+2023-01-25 17:27:53,177  INFO [main] User Login Page:71 - Password entered with value - Royal@12
+2023-01-25 17:27:53,515  INFO [main] User Login Page:89 - Privacy Policy clicked 
+2023-01-25 17:27:54,221  INFO [main] User Login Page:89 - Login clicked 
+2023-01-25 17:28:01,783  INFO [main] User Login Page:89 - Full Menu clicked 
+2023-01-25 17:28:05,297  INFO [main] User Login Page:89 - Document Storage menu clicked 
+2023-01-25 17:28:08,898  INFO [main] User Login Page:89 - Manage Client Storage menu clicked 
+2023-01-25 17:28:12,349  INFO [main] User Login Page:89 - Expand and Collpase clicked 
+2023-01-25 17:28:13,965  INFO [main] User Login Page:89 - Edit icon of user 1 clicked 
+2023-01-25 17:28:14,383  INFO [main] User Login Page:71 - Allowed storage for user 1 entered with value - 65
+2023-01-25 17:28:14,866  INFO [main] User Login Page:89 - Cancel button for user 1 clicked 
+2023-01-25 17:28:14,912  INFO [main] User Login Page:82 - The Allowed storage field is disabled as expected when click on the cancel button
+2023-01-25 17:28:15,489  INFO [main] User Login Page:89 - Edit icon of user 1 clicked 
+2023-01-25 17:28:15,831  INFO [main] User Login Page:71 - Allowed storage for user 1 entered with value - 53
+2023-01-25 17:28:18,846  INFO [main] User Login Page:89 - Save button of user 1 clicked 
+2023-01-25 17:28:24,195  INFO [main] User Login Page:89 - Edit icon of user 2 clicked 
+2023-01-25 17:28:24,681  INFO [main] User Login Page:71 - Allowed storage for user 2 entered with value - 62
+2023-01-25 17:28:27,732  INFO [main] User Login Page:89 - Save button of user 2 clicked 
+2023-01-25 17:28:33,037  INFO [main] User Login Page:89 - Edit icon of user 3 clicked 
+2023-01-25 17:28:33,494  INFO [main] User Login Page:71 - Allowed storage for user 3 entered with value - 76
+2023-01-25 17:28:36,716  INFO [main] User Login Page:89 - Save button of user 3 clicked 
+2023-01-25 17:28:42,019  INFO [main] User Login Page:257 -  Text displayed is  - 191
+2023-01-25 17:28:42,021  INFO [main] User Login Page:103 - The Allotted counts of each client 191.0 is equal to the total count in the table - 191.0
+2023-01-25 17:28:45,115  INFO [main] User Login Page:257 -  Text displayed is  - 191
+2023-01-25 17:28:45,115  INFO [main] User Login Page:117 - The sum of allotted storage displayed in the table 191.0 is equal to the value displayed along with the  "Assigned To Client" header - 191.0
+2023-01-25 17:28:57,681  INFO [main] User Login Page:242 - Logout menu click by JS
+2023-01-25 17:29:00,348  INFO [main] User Login Page:242 - Logout click by JS
+2023-01-25 17:29:03,453  INFO [main] User Login Page:71 - User Name entered with value - gyal@mailinator.com
+2023-01-25 17:29:03,917  INFO [main] User Login Page:71 - Password entered with value - Royal@12
+2023-01-25 17:29:04,254  INFO [main] User Login Page:89 - Privacy Policy clicked 
+2023-01-25 17:29:04,598  INFO [main] User Login Page:89 - Privacy Policy clicked 
+2023-01-25 17:29:05,280  INFO [main] User Login Page:89 - Login clicked 
+2023-01-25 17:29:12,336  INFO [main] User Login Page:89 - Full Menu clicked 
+2023-01-25 17:29:15,778  INFO [main] User Login Page:89 - Document Storage menu clicked 
+2023-01-25 17:29:18,961  INFO [main] User Login Page:89 - Manage Client Storage menu clicked 
+2023-01-25 17:29:19,550  INFO [main] User Login Page:89 - Client name search clicked 
+2023-01-25 17:29:19,692  INFO [main] User Login Page:257 -  Text displayed is  - Russell Martin
+2023-01-25 17:29:20,128  INFO [main] User Login Page:71 - Client Name search box entered with value - Russell Martin
+2023-01-25 17:29:20,639  INFO [main] User Login Page:89 - Search Button clicked 
+2023-01-25 17:29:22,936  INFO [main] User Login Page:156 - Selected client name Russell Martin is displayed as expected when search button is clicked
+2023-01-25 17:29:23,456  INFO [main] User Login Page:89 - Storage search reset clicked 
+2023-01-25 17:29:24,002  INFO [main] User Login Page:89 - Consumed Storage field clicked 
+2023-01-25 17:29:24,114  INFO [main] User Login Page:257 -  Text displayed is  - 0.000
+2023-01-25 17:29:24,537  INFO [main] User Login Page:71 - Consumed storage search box entered with value - 0.000
+2023-01-25 17:29:25,032  INFO [main] User Login Page:89 - Search Button clicked 
+2023-01-25 17:29:27,457  INFO [main] User Login Page:196 - Search result for 0.000 consumed storage is displayed as expected
+2023-01-25 17:29:27,879  INFO [main] User Login Page:89 - Storage search reset clicked 
+2023-01-25 17:29:40,435  INFO [main] User Login Page:242 - Logout menu click by JS
+2023-01-25 17:29:43,423  INFO [main] User Login Page:242 - Logout click by JS
+2023-01-25 17:29:55,646  INFO [main] User Login Page:71 - User Name entered with value - gyal@mailinator.com
+2023-01-25 17:29:56,111  INFO [main] User Login Page:71 - Password entered with value - Royal@12
+2023-01-25 17:29:56,448  INFO [main] User Login Page:89 - Privacy Policy clicked 
+2023-01-25 17:29:56,761  INFO [main] User Login Page:89 - Privacy Policy clicked 
+2023-01-25 17:29:57,431  INFO [main] User Login Page:89 - Login clicked 
+2023-01-25 17:30:04,229  INFO [main] User Login Page:89 - Full Menu clicked 
+2023-01-25 17:30:07,685  INFO [main] User Login Page:89 - Document Storage menu clicked 
+2023-01-25 17:30:10,635  INFO [main] User Login Page:89 - Manage Client Storage menu clicked 
+2023-01-25 17:30:14,035  INFO [main] User Login Page:89 - Expand and Collpase clicked 
+2023-01-25 17:30:16,965  INFO [main] User Login Page:89 - User Name clicked 
+2023-01-25 17:30:19,248  INFO [main] User Login Page:340 - ClientNames are sorted in ascending Order when click the ClientName header for one time
+2023-01-25 17:30:21,988  INFO [main] User Login Page:89 - User Name clicked 
+2023-01-25 17:30:24,245  INFO [main] User Login Page:354 - ClientNames are sorted in descending Order when click the ClientName header for two times
+2023-01-25 17:30:26,978  INFO [main] User Login Page:89 - Email clicked 
+2023-01-25 17:30:29,265  INFO [main] User Login Page:340 - Emails are sorted in ascending Order when click the Email header for one time
+2023-01-25 17:30:32,082  INFO [main] User Login Page:89 - Email clicked 
+2023-01-25 17:30:34,305  INFO [main] User Login Page:354 - Emails are sorted in descending Order when click the Email header for two times
+2023-01-25 17:30:37,039  INFO [main] User Login Page:89 - Status header clicked 
+2023-01-25 17:30:39,326  INFO [main] User Login Page:340 - Statuss are sorted in ascending Order when click the Status header for one time
+2023-01-25 17:30:42,145  INFO [main] User Login Page:89 - Status header clicked 
+2023-01-25 17:30:44,394  INFO [main] User Login Page:354 - Statuss are sorted in descending Order when click the Status header for two times
+2023-01-25 17:30:47,156  INFO [main] User Login Page:89 - Consumed Storage header clicked 
+2023-01-25 17:30:49,418  INFO [main] User Login Page:340 - Consumed Storages are sorted in ascending Order when click the Consumed Storage header for one time
+2023-01-25 17:30:52,125  INFO [main] User Login Page:89 - Consumed Storage header clicked 
+2023-01-25 17:30:54,353  INFO [main] User Login Page:354 - Consumed Storages are sorted in descending Order when click the Consumed Storage header for two times
+2023-01-25 17:30:57,157  INFO [main] User Login Page:89 - Allowed Storage header clicked 
+2023-01-25 17:30:59,374  INFO [main] User Login Page:327 - Allowed Storage are sorted in ascending Order when click the Allowed Storage header for one time
+2023-01-25 17:31:09,303  INFO [main] User Login Page:89 - Allowed Storage header clicked 
+2023-01-25 17:31:11,490  INFO [main] User Login Page:327 - Allowed Storage are sorted in descending Order when click the Allowed Storage header for one time
+2023-01-25 17:31:21,622  INFO [main] User Login Page:71 - User Name entered with value - gyal@mailinator.com
+2023-01-25 17:31:22,052  INFO [main] User Login Page:71 - Password entered with value - Royal@12
+2023-01-25 17:31:22,437  INFO [main] User Login Page:89 - Privacy Policy clicked 
+2023-01-25 17:31:23,162  INFO [main] User Login Page:89 - Login clicked 
+2023-01-25 17:31:31,225  INFO [main] User Login Page:89 - Full Menu clicked 
+2023-01-25 17:31:34,679  INFO [main] User Login Page:89 - Document Storage menu clicked 
+2023-01-25 17:31:39,451  INFO [main] User Login Page:89 - User Storage menu clicked 
+2023-01-25 17:31:43,734  INFO [main] User Login Page:89 - Edit icon of user 1 clicked 
+2023-01-25 17:31:44,219  INFO [main] User Login Page:71 - Allowed storage for user 1 entered with value - 72
+2023-01-25 17:31:44,842  INFO [main] User Login Page:89 - Cancel button for user 1 clicked 
+2023-01-25 17:31:44,899  INFO [main] User Login Page:82 - The Allowed storage field is disabled as expected when click on the cancel button
+2023-01-25 17:31:45,463  INFO [main] User Login Page:89 - Edit icon of user 1 clicked 
+2023-01-25 17:31:45,901  INFO [main] User Login Page:71 - Allowed storage for user 1 entered with value - 13
+2023-01-25 17:31:49,943  INFO [main] User Login Page:89 - Save button of user 1 clicked 
+2023-01-25 17:31:54,625  INFO [main] User Login Page:89 - Edit icon of user 2 clicked 
+2023-01-25 17:31:55,059  INFO [main] User Login Page:71 - Allowed storage for user 2 entered with value - 80
+2023-01-25 17:31:59,096  INFO [main] User Login Page:89 - Save button of user 2 clicked 
+2023-01-25 17:32:03,741  INFO [main] User Login Page:89 - Edit icon of user 3 clicked 
+2023-01-25 17:32:04,183  INFO [main] User Login Page:71 - Allowed storage for user 3 entered with value - 33
+2023-01-25 17:32:08,187  INFO [main] User Login Page:89 - Save button of user 3 clicked 
+2023-01-25 17:32:10,899  INFO [main] User Login Page:257 -  Text displayed is  - 126
+2023-01-25 17:32:10,900  INFO [main] User Login Page:138 - The Allotted counts of each user 126.0 is equal to the total count in the table - 126.0
+2023-01-25 17:32:10,950  INFO [main] User Login Page:257 -  Text displayed is  - 126
+2023-01-25 17:32:10,951  INFO [main] User Login Page:151 - The sum of allotted storage displayed in the table 126.0 is equal to the value displayed along with the  "Assigned To User" header - 126.0
+2023-01-25 17:32:23,436  INFO [main] User Login Page:242 - Logout menu click by JS
+2023-01-25 17:32:26,215  INFO [main] User Login Page:242 - Logout click by JS
+2023-01-25 17:32:29,345  INFO [main] User Login Page:71 - User Name entered with value - gyal@mailinator.com
+2023-01-25 17:32:29,736  INFO [main] User Login Page:71 - Password entered with value - Royal@12
+2023-01-25 17:32:30,053  INFO [main] User Login Page:89 - Privacy Policy clicked 
+2023-01-25 17:32:30,401  INFO [main] User Login Page:89 - Privacy Policy clicked 
+2023-01-25 17:32:31,085  INFO [main] User Login Page:89 - Login clicked 
+2023-01-25 17:32:38,163  INFO [main] User Login Page:89 - Full Menu clicked 
+2023-01-25 17:32:41,607  INFO [main] User Login Page:89 - Document Storage menu clicked 
+2023-01-25 17:32:45,707  INFO [main] User Login Page:89 - User Storage menu clicked 
+2023-01-25 17:32:46,835  INFO [main] User Login Page:89 - Department search clicked 
+2023-01-25 17:32:47,065  INFO [main] User Login Page:257 -  Text displayed is  - Human Resource
+2023-01-25 17:32:47,938  INFO [main] User Login Page:89 - Department option clicked 
+2023-01-25 17:32:48,606  INFO [main] User Login Page:89 - Search Button clicked 
+2023-01-25 17:32:52,658  INFO [main] User Login Page:193 - Selected department Human Resource is displayed as expected when search button is clicked
+2023-01-25 17:32:56,244  INFO [main] User Login Page:89 - Storage search reset clicked 
+2023-01-25 17:32:57,337  INFO [main] User Login Page:89 - Designation Search field clicked 
+2023-01-25 17:33:00,314  INFO [main] User Login Page:89 - Designation Search option clicked 
+2023-01-25 17:33:00,969  INFO [main] User Login Page:89 - Search Button clicked 
+2023-01-25 17:33:04,891  INFO [main] User Login Page:241 - Searched result for CEO designation is displayed as expected when click on the search button
+2023-01-25 17:33:08,607  INFO [main] User Login Page:89 - Storage search reset clicked 
+2023-01-25 17:33:09,677  INFO [main] User Login Page:89 - User Name search field clicked 
+2023-01-25 17:33:09,744  INFO [main] User Login Page:257 -  Text displayed is  - ginny .
+2023-01-25 17:33:10,197  INFO [main] User Login Page:71 - User Name Search box entered with value - ginny .
+2023-01-25 17:33:10,875  INFO [main] User Login Page:89 - Search Button clicked 
+2023-01-25 17:33:45,891  INFO [main] User Login Page:286 - Search result for ginny . is not displayed
+2023-01-25 17:33:49,940  INFO [main] User Login Page:89 - Storage search reset clicked 
+2023-01-25 17:33:50,962  INFO [main] User Login Page:89 - Consumed Storage field clicked 
+2023-01-25 17:33:51,038  INFO [main] User Login Page:257 -  Text displayed is  - 4.50
+2023-01-25 17:33:51,462  INFO [main] User Login Page:71 - Consumed storage search field entered with value - 4.50
+2023-01-25 17:33:52,064  INFO [main] User Login Page:89 - Search Button clicked 
+2023-01-25 17:33:55,124  INFO [main] User Login Page:326 - Search result for 4.50 consumed storage is displayed as expected
+2023-01-25 17:33:58,771  INFO [main] User Login Page:89 - Storage search reset clicked 
+2023-01-25 17:34:11,620  INFO [main] User Login Page:242 - Logout menu click by JS
+2023-01-25 17:34:14,612  INFO [main] User Login Page:242 - Logout click by JS
+2023-01-25 17:34:17,618  INFO [main] User Login Page:71 - User Name entered with value - gyal@mailinator.com
+2023-01-25 17:34:18,040  INFO [main] User Login Page:71 - Password entered with value - Royal@12
+2023-01-25 17:34:18,358  INFO [main] User Login Page:89 - Privacy Policy clicked 
+2023-01-25 17:34:18,709  INFO [main] User Login Page:89 - Privacy Policy clicked 
+2023-01-25 17:34:19,392  INFO [main] User Login Page:89 - Login clicked 
+2023-01-25 17:34:26,387  INFO [main] User Login Page:89 - Full Menu clicked 
+2023-01-25 17:34:29,862  INFO [main] User Login Page:89 - Document Storage menu clicked 
+2023-01-25 17:34:33,806  INFO [main] User Login Page:89 - User Storage menu clicked 
+2023-01-25 17:34:37,744  INFO [main] User Login Page:89 - User Name clicked 
+2023-01-25 17:34:41,079  INFO [main] User Login Page:506 - UserNames are sorted in ascending Order when click the UserName header for one time
+2023-01-25 17:34:44,797  INFO [main] User Login Page:89 - User Name clicked 
+2023-01-25 17:34:47,977  INFO [main] User Login Page:532 - UserNames are sorted in descending Order when click the UserName header for two times
+2023-01-25 17:34:51,638  INFO [main] User Login Page:89 - Designation clicked 
+2023-01-25 17:34:54,937  INFO [main] User Login Page:506 - Designations are sorted in ascending Order when click the Designation header for one time
+2023-01-25 17:34:58,648  INFO [main] User Login Page:89 - Designation clicked 
+2023-01-25 17:35:01,966  INFO [main] User Login Page:532 - Designations are sorted in descending Order when click the Designation header for two times
+2023-01-25 17:35:05,722  INFO [main] User Login Page:89 - Department header clicked 
+2023-01-25 17:35:09,003  INFO [main] User Login Page:506 - Departments are sorted in ascending Order when click the Department header for one time
+2023-01-25 17:35:12,721  INFO [main] User Login Page:89 - Department header clicked 
+2023-01-25 17:35:16,175  INFO [main] User Login Page:532 - Departments are sorted in descending Order when click the Department header for two times
+2023-01-25 17:35:20,193  INFO [main] User Login Page:89 - Status header clicked 
+2023-01-25 17:35:23,580  INFO [main] User Login Page:506 - Statuss are sorted in ascending Order when click the Status header for one time
+2023-01-25 17:35:28,463  INFO [main] User Login Page:89 - Status header clicked 
+2023-01-25 17:35:31,823  INFO [main] User Login Page:532 - Statuss are sorted in descending Order when click the Status header for two times
+2023-01-25 17:35:35,644  INFO [main] User Login Page:89 - Consumed Storage header clicked 
+2023-01-25 17:35:39,055  INFO [main] User Login Page:506 - Consumed Storages are sorted in ascending Order when click the Consumed Storage header for one time
+2023-01-25 17:35:42,803  INFO [main] User Login Page:89 - Consumed Storage header clicked 
+2023-01-25 17:35:46,189  INFO [main] User Login Page:532 - Consumed Storages are sorted in descending Order when click the Consumed Storage header for two times
+2023-01-25 17:35:49,985  INFO [main] User Login Page:89 - Allowed Storage header clicked 
+2023-01-25 17:35:52,694  INFO [main] User Login Page:481 - Allowed Storage are sorted in ascending Order when click the Allowed Storage header for one time
+2023-01-25 17:35:56,555  INFO [main] User Login Page:89 - Allowed Storage header clicked 
+2023-01-25 17:35:59,203  INFO [main] User Login Page:481 - Allowed Storage are sorted in descending Order when click the Allowed Storage header for one time
+2023-01-25 17:36:09,146  INFO [main] User Login Page:71 - User Name entered with value - gyal@mailinator.com
+2023-01-25 17:36:09,529  INFO [main] User Login Page:71 - Password entered with value - Royal@12
+2023-01-25 17:36:09,878  INFO [main] User Login Page:89 - Privacy Policy clicked 
+2023-01-25 17:36:10,519  INFO [main] User Login Page:89 - Login clicked 
+2023-01-25 17:36:19,771  INFO [main] User Login Page:89 - Full Menu clicked 
+2023-01-25 17:36:23,203  INFO [main] User Login Page:89 - Document Storage menu clicked 
+2023-01-25 17:36:28,889  INFO [main] User Login Page:242 - Dashboard click by JS
+2023-01-25 17:36:33,033  INFO [main] User Login Page:89 - Add Folder icon clicked 
+2023-01-25 17:36:33,658  INFO [main] User Login Page:89 - Save button clicked 
+2023-01-25 17:36:33,730  INFO [main] User Login Page:77 - Error message for Folder name field is displayed as expected and the message is - Folder Name is required
+2023-01-25 17:36:33,802  INFO [main] User Login Page:89 - Error message for Folder description field is displayed as expected and the message is - Description is required
+2023-01-25 17:36:37,318  INFO [main] User Login Page:89 - Cancel button clicked 
+2023-01-25 17:36:49,759  INFO [main] User Login Page:242 - Logout menu click by JS
+2023-01-25 17:36:52,384  INFO [main] User Login Page:242 - Logout click by JS
+2023-01-25 17:36:55,472  INFO [main] User Login Page:71 - User Name entered with value - gyal@mailinator.com
+2023-01-25 17:36:55,904  INFO [main] User Login Page:71 - Password entered with value - Royal@12
+2023-01-25 17:36:56,219  INFO [main] User Login Page:89 - Privacy Policy clicked 
+2023-01-25 17:36:56,584  INFO [main] User Login Page:89 - Privacy Policy clicked 
+2023-01-25 17:36:57,257  INFO [main] User Login Page:89 - Login clicked 
+2023-01-25 17:37:04,310  INFO [main] User Login Page:89 - Full Menu clicked 
+2023-01-25 17:37:07,770  INFO [main] User Login Page:89 - Document Storage menu clicked 
+2023-01-25 17:37:12,992  INFO [main] User Login Page:242 - Dashboard click by JS
+2023-01-25 17:37:15,779  INFO [main] User Login Page:89 - Add Folder icon clicked 
+2023-01-25 17:37:16,264  INFO [main] User Login Page:71 - Folder Name entered with value - F20230125173637
+2023-01-25 17:37:20,375  INFO [main] User Login Page:176 - Department selected with text - Utility Technician
+2023-01-25 17:37:23,076  INFO [main] User Login Page:89 - Fredrick Roger clicked 
+2023-01-25 17:37:23,142  INFO [main] User Login Page:257 -  Text displayed is  - Fredrick Roger
+2023-01-25 17:37:23,142  INFO [main] User Login Page:146 - Fredrick Roger is assigned to the folder when click on the + icon
+2023-01-25 17:37:23,615  INFO [main] User Login Page:71 - Folder Description entered with value - Description20230125173637
+2023-01-25 17:37:27,412  INFO [main] User Login Page:89 - Save button clicked 
+2023-01-25 17:37:31,373  INFO [main] User Login Page:89 - Folder - F20230125173637 clicked 
+2023-01-25 17:37:31,444  INFO [main] User Login Page:191 - The folder name is changed to Red color when click on it
+2023-01-25 17:37:32,008  INFO [main] User Login Page:219 - Scroll to this element - Storage Capacity menu bar
+2023-01-25 17:37:35,592  INFO [main] User Login Page:89 - Edit Icon clicked 
+2023-01-25 17:37:36,144  INFO [main] User Login Page:71 - Folder Description entered with value - Updated Description20230125173637
+2023-01-25 17:37:40,180  INFO [main] User Login Page:89 - Save button clicked 
+2023-01-25 17:37:44,194  INFO [main] User Login Page:89 - Folder - F20230125173637 clicked 
+2023-01-25 17:37:44,746  INFO [main] User Login Page:219 - Scroll to this element - Storage Capacity menu bar
+2023-01-25 17:37:48,005  INFO [main] User Login Page:89 - Edit Icon clicked 
+2023-01-25 17:37:51,062  INFO [main] User Login Page:257 -  Text displayed is  - Updated Description20230125173637
+2023-01-25 17:37:51,062  INFO [main] User Login Page:219 - Description for the folder is successfully updated
+2023-01-25 17:38:03,460  INFO [main] User Login Page:242 - Logout menu click by JS
+2023-01-25 17:38:06,083  INFO [main] User Login Page:242 - Logout click by JS
+2023-01-25 17:38:09,196  INFO [main] User Login Page:71 - User Name entered with value - gyal@mailinator.com
+2023-01-25 17:38:09,582  INFO [main] User Login Page:71 - Password entered with value - Royal@12
+2023-01-25 17:38:09,905  INFO [main] User Login Page:89 - Privacy Policy clicked 
+2023-01-25 17:38:10,235  INFO [main] User Login Page:89 - Privacy Policy clicked 
+2023-01-25 17:38:10,903  INFO [main] User Login Page:89 - Login clicked 
+2023-01-25 17:38:21,575  INFO [main] User Login Page:89 - Full Menu clicked 
+2023-01-25 17:38:25,005  INFO [main] User Login Page:89 - Document Storage menu clicked 
+2023-01-25 17:38:30,571  INFO [main] User Login Page:242 - Dashboard click by JS
+2023-01-25 17:38:33,439  INFO [main] User Login Page:89 - Add Folder icon clicked 
+2023-01-25 17:38:33,935  INFO [main] User Login Page:71 - Folder Name entered with value - F20230125173751
+2023-01-25 17:38:38,064  INFO [main] User Login Page:176 - Department selected with text - Utility Technician
+2023-01-25 17:38:40,736  INFO [main] User Login Page:89 - Fredrick Roger clicked 
+2023-01-25 17:38:40,847  INFO [main] User Login Page:257 -  Text displayed is  - Fredrick Roger
+2023-01-25 17:38:40,848  INFO [main] User Login Page:146 - Fredrick Roger is assigned to the folder when click on the + icon
+2023-01-25 17:38:41,314  INFO [main] User Login Page:71 - Folder Description entered with value - Description20230125173751
+2023-01-25 17:38:45,466  INFO [main] User Login Page:89 - Save button clicked 
+2023-01-25 17:38:49,520  INFO [main] User Login Page:89 - Folder - F20230125173751 clicked 
+2023-01-25 17:38:50,358  INFO [main] User Login Page:412 - File Upload uploaded with value - C:\Users\aanand\eclipse-workspace\Document-Storage-Module-AmanBranch\Document-Storage-Module-AmanBranch\Document-Storage-Module-master\src\main\resources\testfiles\file-sample_100kB.doc
+2023-01-25 17:38:50,917  INFO [main] User Login Page:89 - Start Upload clicked 
+2023-01-25 17:38:56,422  INFO [main] User Login Page:284 - Uploaded file file-sample_100kB.doc is displayed in the file list
+2023-01-25 17:38:56,946  INFO [main] User Login Page:89 - Reset button clicked 
+2023-01-25 17:39:06,752  INFO [main] User Login Page:251 - The uploaded files are reset successfully when click on the reset button
+2023-01-25 17:39:07,368  INFO [main] User Login Page:412 - File Upload uploaded with value - C:\Users\aanand\eclipse-workspace\Document-Storage-Module-AmanBranch\Document-Storage-Module-AmanBranch\Document-Storage-Module-master\src\main\resources\testfiles\file-sample_100kB.doc
+C:\Users\aanand\eclipse-workspace\Document-Storage-Module-AmanBranch\Document-Storage-Module-AmanBranch\Document-Storage-Module-master\src\main\resources\testfiles\pdf.pdf
+C:\Users\aanand\eclipse-workspace\Document-Storage-Module-AmanBranch\Document-Storage-Module-AmanBranch\Document-Storage-Module-master\src\main\resources\testfiles\55565.jpg
+C:\Users\aanand\eclipse-workspace\Document-Storage-Module-AmanBranch\Document-Storage-Module-AmanBranch\Document-Storage-Module-master\src\main\resources\testfiles\ItemTypeSample.xls
+2023-01-25 17:39:07,922  INFO [main] User Login Page:89 - Start Upload clicked 
+2023-01-25 17:39:15,873  INFO [main] User Login Page:284 - Uploaded file file-sample_100kB.doc is displayed in the file list
+2023-01-25 17:39:15,903  INFO [main] User Login Page:284 - Uploaded file pdf.pdf is displayed in the file list
+2023-01-25 17:39:15,941  INFO [main] User Login Page:284 - Uploaded file 55565.jpg is displayed in the file list
+2023-01-25 17:39:15,991  INFO [main] User Login Page:284 - Uploaded file ItemTypeSample.xls is displayed in the file list
+2023-01-25 17:39:28,286  INFO [main] User Login Page:242 - Logout menu click by JS
+2023-01-25 17:39:31,035  INFO [main] User Login Page:242 - Logout click by JS
+2023-01-25 17:39:34,327  INFO [main] User Login Page:71 - User Name entered with value - gyal@mailinator.com
+2023-01-25 17:39:34,761  INFO [main] User Login Page:71 - Password entered with value - Royal@12
+2023-01-25 17:39:35,105  INFO [main] User Login Page:89 - Privacy Policy clicked 
+2023-01-25 17:39:35,419  INFO [main] User Login Page:89 - Privacy Policy clicked 
+2023-01-25 17:39:36,045  INFO [main] User Login Page:89 - Login clicked 
+2023-01-25 17:39:45,041  INFO [main] User Login Page:89 - Full Menu clicked 
+2023-01-25 17:39:48,461  INFO [main] User Login Page:89 - Document Storage menu clicked 
+2023-01-25 17:39:56,068  INFO [main] User Login Page:242 - Dashboard click by JS
+2023-01-25 17:39:59,519  INFO [main] User Login Page:89 - Add Folder icon clicked 
+2023-01-25 17:40:00,060  INFO [main] User Login Page:71 - Folder Name entered with value - F20230125173915
+2023-01-25 17:40:04,444  INFO [main] User Login Page:176 - Department selected with text - Utility Technician
+2023-01-25 17:40:07,417  INFO [main] User Login Page:89 - Fredrick Roger clicked 
+2023-01-25 17:40:07,503  INFO [main] User Login Page:257 -  Text displayed is  - Fredrick Roger
+2023-01-25 17:40:07,503  INFO [main] User Login Page:146 - Fredrick Roger is assigned to the folder when click on the + icon
+2023-01-25 17:40:08,007  INFO [main] User Login Page:71 - Folder Description entered with value - Description20230125173915
+2023-01-25 17:40:12,393  INFO [main] User Login Page:89 - Save button clicked 
+2023-01-25 17:40:16,878  INFO [main] User Login Page:89 - Folder - F20230125173915 clicked 
+2023-01-25 17:40:17,585  INFO [main] User Login Page:412 - File Upload uploaded with value - C:\Users\aanand\eclipse-workspace\Document-Storage-Module-AmanBranch\Document-Storage-Module-AmanBranch\Document-Storage-Module-master\src\main\resources\testfiles\file-sample_100kB.doc
+2023-01-25 17:40:18,232  INFO [main] User Login Page:89 - Start Upload clicked 
+2023-01-25 17:40:22,706  INFO [main] User Login Page:219 - Scroll to this element - Uploaded File
+2023-01-25 17:40:23,391  INFO [main] User Login Page:257 -  Text displayed is  - file-sample_100kB.doc
+2023-01-25 17:40:24,122  INFO [main] User Login Page:89 - Check box clicked 
+2023-01-25 17:40:25,002  INFO [main] User Login Page:89 - Bulk Move clicked 
+2023-01-25 17:40:25,205  INFO [main] User Login Page:257 -  Text displayed is  - Are you sure you want to move these file(s)?
+2023-01-25 17:40:25,889  INFO [main] User Login Page:89 - Confirm Ok  clicked 
+2023-01-25 17:40:29,060  INFO [main] User Login Page:89 - Confirm clicked 
+2023-01-25 17:40:29,845  INFO [main] User Login Page:257 -  Text displayed is  - Already Exist
+2023-01-25 17:40:30,597  INFO [main] User Login Page:89 - Replace option clicked 
+2023-01-25 17:40:33,870  INFO [main] User Login Page:89 - Submit clicked 
+2023-01-25 17:40:34,225  INFO [main] User Login Page:257 -  Text displayed is  - Successful
+2023-01-25 17:40:34,225  INFO [main] User Login Page:444 - The file file-sample_100kB.doc is Move to the CHAT folder after click the submit button
+2023-01-25 17:40:40,236  INFO [main] User Login Page:89 - File status popup close clicked 
+2023-01-25 17:40:52,542  INFO [main] User Login Page:242 - Logout menu click by JS
+2023-01-25 17:40:55,192  INFO [main] User Login Page:242 - Logout click by JS
+2023-01-25 17:41:00,447  INFO [main] User Login Page:71 - User Name entered with value - gyal@mailinator.com
+2023-01-25 17:41:01,065  INFO [main] User Login Page:71 - Password entered with value - Royal@12
+2023-01-25 17:41:01,409  INFO [main] User Login Page:89 - Privacy Policy clicked 
+2023-01-25 17:41:01,910  INFO [main] User Login Page:89 - Privacy Policy clicked 
+2023-01-25 17:41:02,707  INFO [main] User Login Page:89 - Login clicked 
+2023-01-25 17:41:23,863  INFO [main] User Login Page:89 - Full Menu clicked 
+2023-01-25 17:41:27,905  INFO [main] User Login Page:89 - Document Storage menu clicked 
+2023-01-25 17:41:35,075  INFO [main] User Login Page:242 - Dashboard click by JS
+2023-01-25 17:41:39,938  INFO [main] User Login Page:89 - Add Folder icon clicked 
+2023-01-25 17:41:40,676  INFO [main] User Login Page:71 - Folder Name entered with value - F20230125174040
+2023-01-25 17:41:45,689  INFO [main] User Login Page:176 - Department selected with text - Utility Technician
+2023-01-25 17:41:49,265  INFO [main] User Login Page:89 - Fredrick Roger clicked 
+2023-01-25 17:41:49,410  INFO [main] User Login Page:257 -  Text displayed is  - Fredrick Roger
+2023-01-25 17:41:49,410  INFO [main] User Login Page:146 - Fredrick Roger is assigned to the folder when click on the + icon
+2023-01-25 17:41:50,010  INFO [main] User Login Page:71 - Folder Description entered with value - Description20230125174040
+2023-01-25 17:41:55,170  INFO [main] User Login Page:89 - Save button clicked 
+2023-01-25 17:41:59,769  INFO [main] User Login Page:89 - Folder - F20230125174040 clicked 
+2023-01-25 17:42:01,038  INFO [main] User Login Page:412 - File Upload uploaded with value - C:\Users\aanand\eclipse-workspace\Document-Storage-Module-AmanBranch\Document-Storage-Module-AmanBranch\Document-Storage-Module-master\src\main\resources\testfiles\file-sample_100kB.doc
+2023-01-25 17:42:01,971  INFO [main] User Login Page:89 - Start Upload clicked 
+2023-01-25 17:42:08,341  INFO [main] User Login Page:219 - Scroll to this element - Uploaded File
+2023-01-25 17:42:08,997  INFO [main] User Login Page:257 -  Text displayed is  - file-sample_100kB.doc
+2023-01-25 17:42:09,897  INFO [main] User Login Page:89 - Check box clicked 
+2023-01-25 17:42:10,834  INFO [main] User Login Page:89 - Clone All clicked 
+2023-01-25 17:42:10,998  INFO [main] User Login Page:257 -  Text displayed is  - Are you sure you want to Copy these file(s).
+2023-01-25 17:42:12,121  INFO [main] User Login Page:89 - Confirm Ok  clicked 
+2023-01-25 17:42:18,143  INFO [main] User Login Page:89 - Confirm clicked 
+2023-01-25 17:42:18,654  INFO [main] User Login Page:257 -  Text displayed is  - Already Exist
+2023-01-25 17:42:19,496  INFO [main] User Login Page:89 - Replace option clicked 
+2023-01-25 17:42:23,978  INFO [main] User Login Page:89 - Submit clicked 
+2023-01-25 17:42:24,420  INFO [main] User Login Page:257 -  Text displayed is  - Successful
+2023-01-25 17:42:24,421  INFO [main] User Login Page:444 - The file file-sample_100kB.doc is Clone to the CHAT folder after click the submit button
+2023-01-25 17:42:31,201  INFO [main] User Login Page:89 - File status popup close clicked 
+2023-01-25 17:42:36,005  INFO [main] User Login Page:89 - Folder - F20230125174040 clicked 
+2023-01-25 17:42:36,756  INFO [main] User Login Page:219 - Scroll to this element - Uploaded File
+2023-01-25 17:42:37,380  INFO [main] User Login Page:257 -  Text displayed is  - file-sample_100kB.doc
+2023-01-25 17:42:38,194  INFO [main] User Login Page:89 - Check box clicked 
+2023-01-25 17:42:38,808  INFO [main] User Login Page:89 - bulk delete clicked 
+2023-01-25 17:42:38,977  INFO [main] User Login Page:257 -  Text displayed is  - Are you sure you want to delete these file(s)?
+2023-01-25 17:42:42,113  INFO [main] User Login Page:89 - Confirm Ok  clicked 
+2023-01-25 17:42:56,557  INFO [main] User Login Page:539 - file-sample_100kB.doc is removed from the file list after delete
+2023-01-25 17:43:08,763  INFO [main] User Login Page:242 - Logout menu click by JS
+2023-01-25 17:43:11,350  INFO [main] User Login Page:242 - Logout click by JS
+2023-01-25 17:43:16,156  INFO [main] User Login Page:71 - User Name entered with value - gyal@mailinator.com
+2023-01-25 17:43:16,606  INFO [main] User Login Page:71 - Password entered with value - Royal@12
+2023-01-25 17:43:17,010  INFO [main] User Login Page:89 - Privacy Policy clicked 
+2023-01-25 17:43:17,377  INFO [main] User Login Page:89 - Privacy Policy clicked 
+2023-01-25 17:43:18,128  INFO [main] User Login Page:89 - Login clicked 
+2023-01-25 17:43:25,434  INFO [main] User Login Page:89 - Full Menu clicked 
+2023-01-25 17:43:28,821  INFO [main] User Login Page:89 - Document Storage menu clicked 
+2023-01-25 17:43:36,336  INFO [main] User Login Page:242 - Dashboard click by JS
+2023-01-25 17:43:40,915  INFO [main] User Login Page:89 - Add Folder icon clicked 
+2023-01-25 17:43:41,369  INFO [main] User Login Page:71 - Folder Name entered with value - F20230125174256
+2023-01-25 17:43:45,566  INFO [main] User Login Page:176 - Department selected with text - Utility Technician
+2023-01-25 17:43:48,200  INFO [main] User Login Page:89 - Fredrick Roger clicked 
+2023-01-25 17:43:48,294  INFO [main] User Login Page:257 -  Text displayed is  - Fredrick Roger
+2023-01-25 17:43:48,294  INFO [main] User Login Page:146 - Fredrick Roger is assigned to the folder when click on the + icon
+2023-01-25 17:43:48,723  INFO [main] User Login Page:71 - Folder Description entered with value - Description20230125174256
+2023-01-25 17:43:54,301  INFO [main] User Login Page:89 - Save button clicked 
+2023-01-25 17:43:58,291  INFO [main] User Login Page:89 - Folder - F20230125174256 clicked 
+2023-01-25 17:43:58,863  INFO [main] User Login Page:412 - File Upload uploaded with value - C:\Users\aanand\eclipse-workspace\Document-Storage-Module-AmanBranch\Document-Storage-Module-AmanBranch\Document-Storage-Module-master\src\main\resources\testfiles\file-sample_100kB.doc
+2023-01-25 17:43:59,463  INFO [main] User Login Page:89 - Start Upload clicked 
+2023-01-25 17:44:03,110  INFO [main] User Login Page:219 - Scroll to this element - Card View Option
+2023-01-25 17:44:04,084  INFO [main] User Login Page:89 - Card view option clicked 
+2023-01-25 17:44:04,124  INFO [main] User Login Page:306 - The uploaded documents are displayed in the card view when click Card view option
+2023-01-25 17:44:04,675  INFO [main] User Login Page:219 - Scroll to this element - List View Option
+2023-01-25 17:44:05,642  INFO [main] User Login Page:89 - List view option clicked 
+2023-01-25 17:44:06,185  INFO [main] User Login Page:219 - Scroll to this element - uploadedFile
+2023-01-25 17:44:06,719  INFO [main] User Login Page:325 - The uploaded documents are displayed in the list view when click list view option
+2023-01-25 17:44:07,249  INFO [main] User Login Page:219 - Scroll to this element - Uploaded File
+2023-01-25 17:44:07,811  INFO [main] User Login Page:257 -  Text displayed is  - file-sample_100kB.doc
+2023-01-25 17:44:08,510  INFO [main] User Login Page:89 - Check box clicked 
+2023-01-25 17:44:09,035  INFO [main] User Login Page:89 - Bulk Download icon clicked 
+2023-01-25 17:44:09,166  INFO [main] User Login Page:257 -  Text displayed is  - Are you sure you want to download these file(s)?
+2023-01-25 17:44:10,556  INFO [main] User Login Page:89 - Download Confirmation Yes clicked 
+2023-01-25 17:44:15,557  INFO [main] User Login Page:373 - Downloaded File is Exist
+2023-01-25 17:44:15,901  INFO [main] User Login Page:89 - Action Icon clicked 
+2023-01-25 17:44:15,949  INFO [main] User Login Page:257 -  Text displayed is  - file-sample_100kB.doc
+2023-01-25 17:44:17,937  INFO [main] User Login Page:89 - Download Icon of file clicked 
+2023-01-25 17:44:22,942  INFO [main] User Login Page:373 - Downloaded File is Exist
+2023-01-25 17:44:23,807  INFO [main] User Login Page:89 - Rename option clicked 
+2023-01-25 17:44:25,035  INFO [main] User Login Page:272 -  get attribute value is  - file-sample_100kB
+2023-01-25 17:44:25,902  INFO [main] User Login Page:71 - File name entered with value - UpdateName20230125174256
+2023-01-25 17:44:27,375  INFO [main] User Login Page:89 - Save clicked 
+2023-01-25 17:44:28,877  INFO [main] User Login Page:257 -  Text displayed is  - UpdateName20230125174256.doc
+2023-01-25 17:44:28,878  INFO [main] User Login Page:484 - File name file-sample_100kB is updated to UpdateName20230125174256
+2023-03-29 10:22:25,320  INFO [main] User Login Page:71 - User Name entered with value - gyal@mailinator.com
+2023-03-29 10:22:25,760  INFO [main] User Login Page:71 - Password entered with value - Royal@12
+2023-03-29 10:22:26,114  INFO [main] User Login Page:89 - Privacy Policy clicked 
+2023-03-29 10:22:26,789  INFO [main] User Login Page:89 - Login clicked 
+2023-03-29 10:22:36,893  INFO [main] User Login Page:89 - Full Menu clicked 
+2023-03-29 10:22:40,371  INFO [main] User Login Page:89 - Document Storage menu clicked 
+2023-03-29 10:22:44,915  INFO [main] User Login Page:89 - Manage Client Storage menu clicked 
+2023-03-29 10:22:48,294  INFO [main] User Login Page:89 - Expand and Collpase clicked 
+2023-03-29 10:22:50,041  INFO [main] User Login Page:89 - Edit icon of user 1 clicked 
+2023-03-29 10:22:50,457  INFO [main] User Login Page:71 - Allowed storage for user 1 entered with value - 21
+2023-03-29 10:22:50,978  INFO [main] User Login Page:89 - Cancel button for user 1 clicked 
+2023-03-29 10:22:51,023  INFO [main] User Login Page:82 - The Allowed storage field is disabled as expected when click on the cancel button
+2023-03-29 10:22:51,584  INFO [main] User Login Page:89 - Edit icon of user 1 clicked 
+2023-03-29 10:22:51,930  INFO [main] User Login Page:71 - Allowed storage for user 1 entered with value - 73
+2023-03-29 10:22:55,516  INFO [main] User Login Page:89 - Save button of user 1 clicked 
+2023-03-29 10:23:00,988  INFO [main] User Login Page:89 - Edit icon of user 2 clicked 
+2023-03-29 10:23:01,431  INFO [main] User Login Page:71 - Allowed storage for user 2 entered with value - 44
+2023-03-29 10:23:05,288  INFO [main] User Login Page:89 - Save button of user 2 clicked 
+2023-03-29 10:23:10,033  INFO [main] User Login Page:89 - Edit icon of user 3 clicked 
+2023-03-29 10:23:10,469  INFO [main] User Login Page:71 - Allowed storage for user 3 entered with value - 21
+2023-03-29 10:23:13,785  INFO [main] User Login Page:89 - Save button of user 3 clicked 
+2023-03-29 10:23:19,088  INFO [main] User Login Page:257 -  Text displayed is  - 138
+2023-03-29 10:23:19,091  INFO [main] User Login Page:103 - The Allotted counts of each client 138.0 is equal to the total count in the table - 138.0
+2023-03-29 10:23:22,198  INFO [main] User Login Page:257 -  Text displayed is  - 138
+2023-03-29 10:23:22,199  INFO [main] User Login Page:117 - The sum of allotted storage displayed in the table 138.0 is equal to the value displayed along with the  "Assigned To Client" header - 138.0
+2023-03-29 10:23:34,750  INFO [main] User Login Page:242 - Logout menu click by JS
+2023-03-29 10:23:37,491  INFO [main] User Login Page:242 - Logout click by JS
+2023-03-29 10:23:40,839  INFO [main] User Login Page:71 - User Name entered with value - gyal@mailinator.com
+2023-03-29 10:23:41,220  INFO [main] User Login Page:71 - Password entered with value - Royal@12
+2023-03-29 10:23:41,570  INFO [main] User Login Page:89 - Privacy Policy clicked 
+2023-03-29 10:23:41,929  INFO [main] User Login Page:89 - Privacy Policy clicked 
+2023-03-29 10:23:42,652  INFO [main] User Login Page:89 - Login clicked 
+2023-03-29 10:23:50,305  INFO [main] User Login Page:89 - Full Menu clicked 
+2023-03-29 10:23:53,764  INFO [main] User Login Page:89 - Document Storage menu clicked 
+2023-03-29 10:23:57,671  INFO [main] User Login Page:89 - Manage Client Storage menu clicked 
+2023-03-29 10:23:58,340  INFO [main] User Login Page:89 - Client name search clicked 
+2023-03-29 10:23:58,426  INFO [main] User Login Page:257 -  Text displayed is  - Russell Martin
+2023-03-29 10:23:58,881  INFO [main] User Login Page:71 - Client Name search box entered with value - Russell Martin
+2023-03-29 10:23:59,453  INFO [main] User Login Page:89 - Search Button clicked 
+2023-03-29 10:24:01,737  INFO [main] User Login Page:156 - Selected client name Russell Martin is displayed as expected when search button is clicked
+2023-03-29 10:24:02,238  INFO [main] User Login Page:89 - Storage search reset clicked 
+2023-03-29 10:24:02,752  INFO [main] User Login Page:89 - Consumed Storage field clicked 
+2023-03-29 10:24:02,843  INFO [main] User Login Page:257 -  Text displayed is  - 0.000
+2023-03-29 10:24:03,254  INFO [main] User Login Page:71 - Consumed storage search box entered with value - 0.000
+2023-03-29 10:24:03,684  INFO [main] User Login Page:89 - Search Button clicked 
+2023-03-29 10:24:06,119  INFO [main] User Login Page:196 - Search result for 0.000 consumed storage is displayed as expected
+2023-03-29 10:24:06,583  INFO [main] User Login Page:89 - Storage search reset clicked 
+2023-03-29 10:24:19,119  INFO [main] User Login Page:242 - Logout menu click by JS
+2023-03-29 10:24:21,716  INFO [main] User Login Page:242 - Logout click by JS
+2023-03-29 10:24:25,124  INFO [main] User Login Page:71 - User Name entered with value - gyal@mailinator.com
+2023-03-29 10:24:25,535  INFO [main] User Login Page:71 - Password entered with value - Royal@12
+2023-03-29 10:24:25,918  INFO [main] User Login Page:89 - Privacy Policy clicked 
+2023-03-29 10:24:26,291  INFO [main] User Login Page:89 - Privacy Policy clicked 
+2023-03-29 10:24:27,025  INFO [main] User Login Page:89 - Login clicked 
+2023-03-29 10:24:34,327  INFO [main] User Login Page:89 - Full Menu clicked 
+2023-03-29 10:24:37,789  INFO [main] User Login Page:89 - Document Storage menu clicked 
+2023-03-29 10:24:41,638  INFO [main] User Login Page:89 - Manage Client Storage menu clicked 
+2023-03-29 10:24:45,004  INFO [main] User Login Page:89 - Expand and Collpase clicked 
+2023-03-29 10:24:48,246  INFO [main] User Login Page:89 - User Name clicked 
+2023-03-29 10:24:50,532  INFO [main] User Login Page:340 - ClientNames are sorted in ascending Order when click the ClientName header for one time
+2023-03-29 10:24:53,579  INFO [main] User Login Page:89 - User Name clicked 
+2023-03-29 10:24:55,861  INFO [main] User Login Page:354 - ClientNames are sorted in descending Order when click the ClientName header for two times
+2023-03-29 10:24:58,976  INFO [main] User Login Page:89 - Email clicked 
+2023-03-29 10:25:01,252  INFO [main] User Login Page:340 - Emails are sorted in ascending Order when click the Email header for one time
+2023-03-29 10:25:04,251  INFO [main] User Login Page:89 - Email clicked 
+2023-03-29 10:25:06,528  INFO [main] User Login Page:354 - Emails are sorted in descending Order when click the Email header for two times
+2023-03-29 10:25:09,503  INFO [main] User Login Page:89 - Status header clicked 
+2023-03-29 10:25:11,794  INFO [main] User Login Page:340 - Statuss are sorted in ascending Order when click the Status header for one time
+2023-03-29 10:25:14,844  INFO [main] User Login Page:89 - Status header clicked 
+2023-03-29 10:25:17,134  INFO [main] User Login Page:354 - Statuss are sorted in descending Order when click the Status header for two times
+2023-03-29 10:25:20,415  INFO [main] User Login Page:89 - Consumed Storage header clicked 
+2023-03-29 10:25:22,664  INFO [main] User Login Page:340 - Consumed Storages are sorted in ascending Order when click the Consumed Storage header for one time
+2023-03-29 10:25:25,752  INFO [main] User Login Page:89 - Consumed Storage header clicked 
+2023-03-29 10:25:27,995  INFO [main] User Login Page:354 - Consumed Storages are sorted in descending Order when click the Consumed Storage header for two times
+2023-03-29 10:25:31,146  INFO [main] User Login Page:89 - Allowed Storage header clicked 
+2023-03-29 10:25:33,378  INFO [main] User Login Page:327 - Allowed Storage are sorted in ascending Order when click the Allowed Storage header for one time
+2023-03-29 10:25:36,472  INFO [main] User Login Page:89 - Allowed Storage header clicked 
+2023-03-29 10:25:38,650  INFO [main] User Login Page:327 - Allowed Storage are sorted in descending Order when click the Allowed Storage header for one time
+2023-03-29 10:31:55,707  INFO [main] User Login Page:71 - User Name entered with value - gyal@mailinator.com
+2023-03-29 10:31:56,164  INFO [main] User Login Page:71 - Password entered with value - Royal@12
+2023-03-29 10:31:56,492  INFO [main] User Login Page:89 - Privacy Policy clicked 
+2023-03-29 10:31:57,236  INFO [main] User Login Page:89 - Login clicked 
+2023-03-29 10:32:06,553  INFO [main] User Login Page:89 - Full Menu clicked 
+2023-03-29 10:32:09,983  INFO [main] User Login Page:89 - Document Storage menu clicked 
+2023-03-29 10:32:16,753  INFO [main] User Login Page:242 - Dashboard click by JS
+2023-03-29 10:32:21,673  INFO [main] User Login Page:89 - Add Folder icon clicked 
+2023-03-29 10:32:22,294  INFO [main] User Login Page:89 - Save button clicked 
+2023-03-29 10:32:22,377  INFO [main] User Login Page:77 - Error message for Folder name field is displayed as expected and the message is - Folder Name is required
+2023-03-29 10:32:22,456  INFO [main] User Login Page:89 - Error message for Folder description field is displayed as expected and the message is - Description is required
+2023-03-29 10:32:26,336  INFO [main] User Login Page:89 - Cancel button clicked 
+2023-03-29 10:32:38,849  INFO [main] User Login Page:242 - Logout menu click by JS
+2023-03-29 10:32:41,469  INFO [main] User Login Page:242 - Logout click by JS
+2023-03-29 10:32:44,850  INFO [main] User Login Page:71 - User Name entered with value - gyal@mailinator.com
+2023-03-29 10:32:45,236  INFO [main] User Login Page:71 - Password entered with value - Royal@12
+2023-03-29 10:32:45,587  INFO [main] User Login Page:89 - Privacy Policy clicked 
+2023-03-29 10:32:45,991  INFO [main] User Login Page:89 - Privacy Policy clicked 
+2023-03-29 10:32:46,719  INFO [main] User Login Page:89 - Login clicked 
+2023-03-29 10:32:54,698  INFO [main] User Login Page:89 - Full Menu clicked 
+2023-03-29 10:32:58,167  INFO [main] User Login Page:89 - Document Storage menu clicked 
+2023-03-29 10:33:03,813  INFO [main] User Login Page:242 - Dashboard click by JS
+2023-03-29 10:33:06,972  INFO [main] User Login Page:89 - Add Folder icon clicked 
+2023-03-29 10:33:07,423  INFO [main] User Login Page:71 - Folder Name entered with value - F20230329103226
+2023-03-29 10:33:11,607  INFO [main] User Login Page:176 - Department selected with text - Utility Technician
+2023-03-29 10:33:14,301  INFO [main] User Login Page:89 - Fredrick Roger clicked 
+2023-03-29 10:33:14,413  INFO [main] User Login Page:257 -  Text displayed is  - Fredrick Roger
+2023-03-29 10:33:14,414  INFO [main] User Login Page:146 - Fredrick Roger is assigned to the folder when click on the + icon
+2023-03-29 10:33:14,874  INFO [main] User Login Page:71 - Folder Description entered with value - Description20230329103226
+2023-03-29 10:33:19,059  INFO [main] User Login Page:89 - Save button clicked 
+2023-03-29 10:33:23,153  INFO [main] User Login Page:89 - Folder - F20230329103226 clicked 
+2023-03-29 10:33:23,377  INFO [main] User Login Page:191 - The folder name is changed to Red color when click on it
+2023-03-29 10:33:23,921  INFO [main] User Login Page:219 - Scroll to this element - Storage Capacity menu bar
+2023-03-29 10:33:27,859  INFO [main] User Login Page:89 - Edit Icon clicked 
+2023-03-29 10:33:28,354  INFO [main] User Login Page:71 - Folder Description entered with value - Updated Description20230329103226
+2023-03-29 10:33:32,521  INFO [main] User Login Page:89 - Save button clicked 
+2023-03-29 10:33:36,624  INFO [main] User Login Page:89 - Folder - F20230329103226 clicked 
+2023-03-29 10:33:37,177  INFO [main] User Login Page:219 - Scroll to this element - Storage Capacity menu bar
+2023-03-29 10:33:40,807  INFO [main] User Login Page:89 - Edit Icon clicked 
+2023-03-29 10:33:43,892  INFO [main] User Login Page:257 -  Text displayed is  - Updated Description20230329103226
+2023-03-29 10:33:43,893  INFO [main] User Login Page:219 - Description for the folder is successfully updated
+2023-03-29 10:33:56,338  INFO [main] User Login Page:242 - Logout menu click by JS
+2023-03-29 10:34:00,939  INFO [main] User Login Page:242 - Logout click by JS
+2023-03-29 10:34:02,339  INFO [main] User Login Page:71 - User Name entered with value - gyal@mailinator.com
+2023-03-29 10:34:02,826  INFO [main] User Login Page:71 - Password entered with value - Royal@12
+2023-03-29 10:34:03,146  INFO [main] User Login Page:89 - Privacy Policy clicked 
+2023-03-29 10:34:03,538  INFO [main] User Login Page:89 - Privacy Policy clicked 
+2023-03-29 10:34:04,226  INFO [main] User Login Page:89 - Login clicked 
+2023-03-29 10:34:11,607  INFO [main] User Login Page:89 - Full Menu clicked 
+2023-03-29 10:34:15,088  INFO [main] User Login Page:89 - Document Storage menu clicked 
+2023-03-29 10:34:20,781  INFO [main] User Login Page:242 - Dashboard click by JS
+2023-03-29 10:34:23,856  INFO [main] User Login Page:89 - Add Folder icon clicked 
+2023-03-29 10:34:24,321  INFO [main] User Login Page:71 - Folder Name entered with value - F20230329103343
+2023-03-29 10:34:28,458  INFO [main] User Login Page:176 - Department selected with text - Utility Technician
+2023-03-29 10:34:31,188  INFO [main] User Login Page:89 - Fredrick Roger clicked 
+2023-03-29 10:34:31,245  INFO [main] User Login Page:257 -  Text displayed is  - Fredrick Roger
+2023-03-29 10:34:31,246  INFO [main] User Login Page:146 - Fredrick Roger is assigned to the folder when click on the + icon
+2023-03-29 10:34:31,700  INFO [main] User Login Page:71 - Folder Description entered with value - Description20230329103343
+2023-03-29 10:34:35,918  INFO [main] User Login Page:89 - Save button clicked 
+2023-03-29 10:34:40,040  INFO [main] User Login Page:89 - Folder - F20230329103343 clicked 
+2023-03-29 10:34:40,765  INFO [main] User Login Page:412 - File Upload uploaded with value - C:\Users\aanand\eclipse-workspace\Document-Storage-Module-AmanBranch\Document-Storage-Module-AmanBranch\Document-Storage-Module-master\src\main\resources\testfiles\file-sample_100kB.doc
+2023-03-29 10:34:41,314  INFO [main] User Login Page:89 - Start Upload clicked 
+2023-03-29 10:34:47,217  INFO [main] User Login Page:284 - Uploaded file file-sample_100kB.doc is displayed in the file list
+2023-03-29 10:34:47,695  INFO [main] User Login Page:89 - Reset button clicked 
+2023-03-29 10:34:57,508  INFO [main] User Login Page:251 - The uploaded files are reset successfully when click on the reset button
+2023-03-29 10:34:58,148  INFO [main] User Login Page:412 - File Upload uploaded with value - C:\Users\aanand\eclipse-workspace\Document-Storage-Module-AmanBranch\Document-Storage-Module-AmanBranch\Document-Storage-Module-master\src\main\resources\testfiles\file-sample_100kB.doc
+C:\Users\aanand\eclipse-workspace\Document-Storage-Module-AmanBranch\Document-Storage-Module-AmanBranch\Document-Storage-Module-master\src\main\resources\testfiles\pdf.pdf
+C:\Users\aanand\eclipse-workspace\Document-Storage-Module-AmanBranch\Document-Storage-Module-AmanBranch\Document-Storage-Module-master\src\main\resources\testfiles\55565.jpg
+C:\Users\aanand\eclipse-workspace\Document-Storage-Module-AmanBranch\Document-Storage-Module-AmanBranch\Document-Storage-Module-master\src\main\resources\testfiles\ItemTypeSample.xls
+2023-03-29 10:34:58,709  INFO [main] User Login Page:89 - Start Upload clicked 
+2023-03-29 10:35:10,193  INFO [main] User Login Page:284 - Uploaded file file-sample_100kB.doc is displayed in the file list
+2023-03-29 10:35:10,223  INFO [main] User Login Page:284 - Uploaded file pdf.pdf is displayed in the file list
+2023-03-29 10:35:10,261  INFO [main] User Login Page:284 - Uploaded file 55565.jpg is displayed in the file list
+2023-03-29 10:35:10,314  INFO [main] User Login Page:284 - Uploaded file ItemTypeSample.xls is displayed in the file list
+2023-03-29 10:35:22,742  INFO [main] User Login Page:242 - Logout menu click by JS
+2023-03-29 10:35:25,387  INFO [main] User Login Page:242 - Logout click by JS
+2023-03-29 10:35:44,125  INFO [main] User Login Page:71 - User Name entered with value - gyal@mailinator.com
+2023-03-29 10:35:44,510  INFO [main] User Login Page:71 - Password entered with value - Royal@12
+2023-03-29 10:35:44,854  INFO [main] User Login Page:89 - Privacy Policy clicked 
+2023-03-29 10:35:45,199  INFO [main] User Login Page:89 - Privacy Policy clicked 
+2023-03-29 10:35:45,874  INFO [main] User Login Page:89 - Login clicked 
+2023-03-29 10:35:53,447  INFO [main] User Login Page:89 - Full Menu clicked 
+2023-03-29 10:35:56,896  INFO [main] User Login Page:89 - Document Storage menu clicked 
+2023-03-29 10:36:02,523  INFO [main] User Login Page:242 - Dashboard click by JS
+2023-03-29 10:36:05,720  INFO [main] User Login Page:89 - Add Folder icon clicked 
+2023-03-29 10:36:06,155  INFO [main] User Login Page:71 - Folder Name entered with value - F20230329103510
+2023-03-29 10:36:10,274  INFO [main] User Login Page:176 - Department selected with text - Utility Technician
+2023-03-29 10:36:13,020  INFO [main] User Login Page:89 - Fredrick Roger clicked 
+2023-03-29 10:36:13,133  INFO [main] User Login Page:257 -  Text displayed is  - Fredrick Roger
+2023-03-29 10:36:13,133  INFO [main] User Login Page:146 - Fredrick Roger is assigned to the folder when click on the + icon
+2023-03-29 10:36:13,589  INFO [main] User Login Page:71 - Folder Description entered with value - Description20230329103510
+2023-03-29 10:36:17,723  INFO [main] User Login Page:89 - Save button clicked 
+2023-03-29 10:36:21,834  INFO [main] User Login Page:89 - Folder - F20230329103510 clicked 
+2023-03-29 10:36:22,446  INFO [main] User Login Page:412 - File Upload uploaded with value - C:\Users\aanand\eclipse-workspace\Document-Storage-Module-AmanBranch\Document-Storage-Module-AmanBranch\Document-Storage-Module-master\src\main\resources\testfiles\file-sample_100kB.doc
+2023-03-29 10:36:23,042  INFO [main] User Login Page:89 - Start Upload clicked 
+2023-03-29 10:36:27,799  INFO [main] User Login Page:219 - Scroll to this element - Uploaded File
+2023-03-29 10:36:28,447  INFO [main] User Login Page:257 -  Text displayed is  - file-sample_100kB.doc
+2023-03-29 10:36:29,114  INFO [main] User Login Page:89 - Check box clicked 
+2023-03-29 10:36:29,999  INFO [main] User Login Page:89 - Bulk Move clicked 
+2023-03-29 10:36:30,652  INFO [main] User Login Page:257 -  Text displayed is  - Are you sure you want to move these file(s)?
+2023-03-29 10:36:31,329  INFO [main] User Login Page:89 - Confirm Ok  clicked 
+2023-03-29 10:36:34,306  INFO [main] User Login Page:89 - Confirm clicked 
+2023-03-29 10:36:35,083  INFO [main] User Login Page:257 -  Text displayed is  - Already Exist
+2023-03-29 10:36:35,749  INFO [main] User Login Page:89 - Replace option clicked 
+2023-03-29 10:36:38,587  INFO [main] User Login Page:89 - Submit clicked 
+2023-03-29 10:36:38,746  INFO [main] User Login Page:257 -  Text displayed is  - Successful
+2023-03-29 10:36:38,747  INFO [main] User Login Page:444 - The file file-sample_100kB.doc is Move to the CHAT folder after click the submit button
+2023-03-29 10:36:42,149  INFO [main] User Login Page:89 - File status popup close clicked 
+2023-03-29 10:36:54,613  INFO [main] User Login Page:242 - Logout menu click by JS
+2023-03-29 10:36:57,238  INFO [main] User Login Page:242 - Logout click by JS
+2023-03-29 10:37:00,609  INFO [main] User Login Page:71 - User Name entered with value - gyal@mailinator.com
+2023-03-29 10:37:00,995  INFO [main] User Login Page:71 - Password entered with value - Royal@12
+2023-03-29 10:37:01,309  INFO [main] User Login Page:89 - Privacy Policy clicked 
+2023-03-29 10:37:01,685  INFO [main] User Login Page:89 - Privacy Policy clicked 
+2023-03-29 10:37:02,385  INFO [main] User Login Page:89 - Login clicked 
+2023-03-29 10:37:09,977  INFO [main] User Login Page:89 - Full Menu clicked 
+2023-03-29 10:37:13,431  INFO [main] User Login Page:89 - Document Storage menu clicked 
+2023-03-29 10:37:19,234  INFO [main] User Login Page:242 - Dashboard click by JS
+2023-03-29 10:37:22,246  INFO [main] User Login Page:89 - Add Folder icon clicked 
+2023-03-29 10:37:22,705  INFO [main] User Login Page:71 - Folder Name entered with value - F20230329103642
+2023-03-29 10:37:26,799  INFO [main] User Login Page:176 - Department selected with text - Utility Technician
+2023-03-29 10:37:29,457  INFO [main] User Login Page:89 - Fredrick Roger clicked 
+2023-03-29 10:37:29,526  INFO [main] User Login Page:257 -  Text displayed is  - Fredrick Roger
+2023-03-29 10:37:29,527  INFO [main] User Login Page:146 - Fredrick Roger is assigned to the folder when click on the + icon
+2023-03-29 10:37:29,953  INFO [main] User Login Page:71 - Folder Description entered with value - Description20230329103642
+2023-03-29 10:37:34,158  INFO [main] User Login Page:89 - Save button clicked 
+2023-03-29 10:37:38,211  INFO [main] User Login Page:89 - Folder - F20230329103642 clicked 
+2023-03-29 10:37:38,862  INFO [main] User Login Page:412 - File Upload uploaded with value - C:\Users\aanand\eclipse-workspace\Document-Storage-Module-AmanBranch\Document-Storage-Module-AmanBranch\Document-Storage-Module-master\src\main\resources\testfiles\file-sample_100kB.doc
+2023-03-29 10:37:39,408  INFO [main] User Login Page:89 - Start Upload clicked 
+2023-03-29 10:37:43,850  INFO [main] User Login Page:219 - Scroll to this element - Uploaded File
+2023-03-29 10:37:44,459  INFO [main] User Login Page:257 -  Text displayed is  - file-sample_100kB.doc
+2023-03-29 10:37:45,103  INFO [main] User Login Page:89 - Check box clicked 
+2023-03-29 10:37:45,990  INFO [main] User Login Page:89 - Clone All clicked 
+2023-03-29 10:37:46,686  INFO [main] User Login Page:257 -  Text displayed is  - Are you sure you want to Copy these file(s).
+2023-03-29 10:37:47,387  INFO [main] User Login Page:89 - Confirm Ok  clicked 
+2023-03-29 10:37:50,325  INFO [main] User Login Page:89 - Confirm clicked 
+2023-03-29 10:37:50,634  INFO [main] User Login Page:257 -  Text displayed is  - Already Exist
+2023-03-29 10:37:51,262  INFO [main] User Login Page:89 - Replace option clicked 
+2023-03-29 10:37:55,618  INFO [main] User Login Page:89 - Submit clicked 
+2023-03-29 10:37:55,710  INFO [main] User Login Page:257 -  Text displayed is  - Successful
+2023-03-29 10:37:55,710  INFO [main] User Login Page:444 - The file file-sample_100kB.doc is Clone to the CHAT folder after click the submit button
+2023-03-29 10:37:59,351  INFO [main] User Login Page:89 - File status popup close clicked 
+2023-03-29 10:38:03,463  INFO [main] User Login Page:89 - Folder - F20230329103642 clicked 
+2023-03-29 10:38:04,002  INFO [main] User Login Page:219 - Scroll to this element - Uploaded File
+2023-03-29 10:38:04,566  INFO [main] User Login Page:257 -  Text displayed is  - file-sample_100kB.doc
+2023-03-29 10:38:05,197  INFO [main] User Login Page:89 - Check box clicked 
+2023-03-29 10:38:05,755  INFO [main] User Login Page:89 - bulk delete clicked 
+2023-03-29 10:38:05,850  INFO [main] User Login Page:257 -  Text displayed is  - Are you sure you want to delete these file(s)?
+2023-03-29 10:38:08,394  INFO [main] User Login Page:89 - Confirm Ok  clicked 
+2023-03-29 10:38:22,905  INFO [main] User Login Page:539 - file-sample_100kB.doc is removed from the file list after delete
+2023-03-29 10:38:35,407  INFO [main] User Login Page:242 - Logout menu click by JS
+2023-03-29 10:38:38,000  INFO [main] User Login Page:242 - Logout click by JS
+2023-03-29 10:38:41,283  INFO [main] User Login Page:71 - User Name entered with value - gyal@mailinator.com
+2023-03-29 10:38:41,717  INFO [main] User Login Page:71 - Password entered with value - Royal@12
+2023-03-29 10:38:42,037  INFO [main] User Login Page:89 - Privacy Policy clicked 
+2023-03-29 10:38:42,394  INFO [main] User Login Page:89 - Privacy Policy clicked 
+2023-03-29 10:38:43,068  INFO [main] User Login Page:89 - Login clicked 
+2023-03-29 10:38:50,635  INFO [main] User Login Page:89 - Full Menu clicked 
+2023-03-29 10:38:54,098  INFO [main] User Login Page:89 - Document Storage menu clicked 
+2023-03-29 10:39:00,020  INFO [main] User Login Page:242 - Dashboard click by JS
+2023-03-29 10:39:03,073  INFO [main] User Login Page:89 - Add Folder icon clicked 
+2023-03-29 10:39:03,531  INFO [main] User Login Page:71 - Folder Name entered with value - F20230329103822
+2023-03-29 10:39:07,671  INFO [main] User Login Page:176 - Department selected with text - Utility Technician
+2023-03-29 10:39:10,398  INFO [main] User Login Page:89 - Fredrick Roger clicked 
+2023-03-29 10:39:10,457  INFO [main] User Login Page:257 -  Text displayed is  - Fredrick Roger
+2023-03-29 10:39:10,457  INFO [main] User Login Page:146 - Fredrick Roger is assigned to the folder when click on the + icon
+2023-03-29 10:39:10,902  INFO [main] User Login Page:71 - Folder Description entered with value - Description20230329103822
+2023-03-29 10:39:15,149  INFO [main] User Login Page:89 - Save button clicked 
+2023-03-29 10:39:19,337  INFO [main] User Login Page:89 - Folder - F20230329103822 clicked 
+2023-03-29 10:39:19,928  INFO [main] User Login Page:412 - File Upload uploaded with value - C:\Users\aanand\eclipse-workspace\Document-Storage-Module-AmanBranch\Document-Storage-Module-AmanBranch\Document-Storage-Module-master\src\main\resources\testfiles\file-sample_100kB.doc
+2023-03-29 10:39:20,540  INFO [main] User Login Page:89 - Start Upload clicked 
+2023-03-29 10:39:25,367  INFO [main] User Login Page:219 - Scroll to this element - Card View Option
+2023-03-29 10:39:26,402  INFO [main] User Login Page:89 - Card view option clicked 
+2023-03-29 10:39:26,438  INFO [main] User Login Page:306 - The uploaded documents are displayed in the card view when click Card view option
+2023-03-29 10:39:27,007  INFO [main] User Login Page:219 - Scroll to this element - List View Option
+2023-03-29 10:39:28,131  INFO [main] User Login Page:89 - List view option clicked 
+2023-03-29 10:39:28,675  INFO [main] User Login Page:219 - Scroll to this element - uploadedFile
+2023-03-29 10:39:29,211  INFO [main] User Login Page:325 - The uploaded documents are displayed in the list view when click list view option
+2023-03-29 10:39:29,752  INFO [main] User Login Page:219 - Scroll to this element - Uploaded File
+2023-03-29 10:39:30,351  INFO [main] User Login Page:257 -  Text displayed is  - file-sample_100kB.doc
+2023-03-29 10:39:31,010  INFO [main] User Login Page:89 - Check box clicked 
+2023-03-29 10:39:31,587  INFO [main] User Login Page:89 - Bulk Download icon clicked 
+2023-03-29 10:39:31,683  INFO [main] User Login Page:257 -  Text displayed is  - Are you sure you want to download these file(s)?
+2023-03-29 10:39:33,150  INFO [main] User Login Page:89 - Download Confirmation Yes clicked 
+2023-03-29 10:39:38,159  INFO [main] User Login Page:373 - Downloaded File is Exist
+2023-03-29 10:39:38,500  INFO [main] User Login Page:89 - Action Icon clicked 
+2023-03-29 10:39:38,552  INFO [main] User Login Page:257 -  Text displayed is  - file-sample_100kB.doc
+2023-03-29 10:39:40,634  INFO [main] User Login Page:89 - Download Icon of file clicked 
+2023-03-29 10:39:45,650  INFO [main] User Login Page:373 - Downloaded File is Exist
+2023-03-29 10:39:46,604  INFO [main] User Login Page:89 - Rename option clicked 
+2023-03-29 10:39:47,259  INFO [main] User Login Page:272 -  get attribute value is  - file-sample_100kB
+2023-03-29 10:39:47,875  INFO [main] User Login Page:71 - File name entered with value - UpdateName20230329103822
+2023-03-29 10:39:49,236  INFO [main] User Login Page:89 - Save clicked 
+2023-03-29 10:39:49,311  INFO [main] User Login Page:257 -  Text displayed is  - file-sample_100kB.doc
+2023-03-29 10:39:49,311  INFO [main] User Login Page:484 - File name file-sample_100kB is updated to UpdateName20230329103822
+2023-03-29 10:42:25,406  INFO [main] User Login Page:71 - User Name entered with value - gyal@mailinator.com
+2023-03-29 10:42:25,885  INFO [main] User Login Page:71 - Password entered with value - Royal@12
+2023-03-29 10:42:26,212  INFO [main] User Login Page:89 - Privacy Policy clicked 
+2023-03-29 10:42:26,908  INFO [main] User Login Page:89 - Login clicked 
+2023-03-29 10:42:37,189  INFO [main] User Login Page:89 - Full Menu clicked 
+2023-03-29 10:42:40,709  INFO [main] User Login Page:89 - Document Storage menu clicked 
+2023-03-29 10:42:47,111  INFO [main] User Login Page:242 - Dashboard click by JS
+2023-03-29 10:42:50,416  INFO [main] User Login Page:89 - Add Folder icon clicked 
+2023-03-29 10:42:50,888  INFO [main] User Login Page:71 - Folder Name entered with value - F20230329104224
+2023-03-29 10:42:55,079  INFO [main] User Login Page:176 - Department selected with text - Utility Technician
+2023-03-29 10:42:57,782  INFO [main] User Login Page:89 - Fredrick Roger clicked 
+2023-03-29 10:42:57,854  INFO [main] User Login Page:257 -  Text displayed is  - Fredrick Roger
+2023-03-29 10:42:57,854  INFO [main] User Login Page:146 - Fredrick Roger is assigned to the folder when click on the + icon
+2023-03-29 10:42:58,328  INFO [main] User Login Page:71 - Folder Description entered with value - Description20230329104224
+2023-03-29 10:43:02,595  INFO [main] User Login Page:89 - Save button clicked 
+2023-03-29 10:43:06,655  INFO [main] User Login Page:89 - Folder - F20230329104224 clicked 
+2023-03-29 10:43:07,252  INFO [main] User Login Page:412 - File Upload uploaded with value - C:\Users\aanand\eclipse-workspace\Document-Storage-Module-AmanBranch\Document-Storage-Module-AmanBranch\Document-Storage-Module-master\src\main\resources\testfiles\file-sample_100kB.doc
+2023-03-29 10:43:07,807  INFO [main] User Login Page:89 - Start Upload clicked 
+2023-03-29 10:43:13,860  INFO [main] User Login Page:284 - Uploaded file file-sample_100kB.doc is displayed in the file list
+2023-03-29 10:43:14,370  INFO [main] User Login Page:89 - Reset button clicked 
+2023-03-29 10:43:24,162  INFO [main] User Login Page:251 - The uploaded files are reset successfully when click on the reset button
+2023-03-29 10:43:24,807  INFO [main] User Login Page:412 - File Upload uploaded with value - C:\Users\aanand\eclipse-workspace\Document-Storage-Module-AmanBranch\Document-Storage-Module-AmanBranch\Document-Storage-Module-master\src\main\resources\testfiles\file-sample_100kB.doc
+C:\Users\aanand\eclipse-workspace\Document-Storage-Module-AmanBranch\Document-Storage-Module-AmanBranch\Document-Storage-Module-master\src\main\resources\testfiles\pdf.pdf
+C:\Users\aanand\eclipse-workspace\Document-Storage-Module-AmanBranch\Document-Storage-Module-AmanBranch\Document-Storage-Module-master\src\main\resources\testfiles\55565.jpg
+C:\Users\aanand\eclipse-workspace\Document-Storage-Module-AmanBranch\Document-Storage-Module-AmanBranch\Document-Storage-Module-master\src\main\resources\testfiles\ItemTypeSample.xls
+2023-03-29 10:43:25,358  INFO [main] User Login Page:89 - Start Upload clicked 
+2023-03-29 10:43:36,554  INFO [main] User Login Page:284 - Uploaded file file-sample_100kB.doc is displayed in the file list
+2023-03-29 10:43:36,584  INFO [main] User Login Page:284 - Uploaded file pdf.pdf is displayed in the file list
+2023-03-29 10:43:36,626  INFO [main] User Login Page:284 - Uploaded file 55565.jpg is displayed in the file list
+2023-03-29 10:43:36,678  INFO [main] User Login Page:284 - Uploaded file ItemTypeSample.xls is displayed in the file list
+2023-03-29 10:46:16,919  INFO [main] User Login Page:71 - User Name entered with value - gyal@mailinator.com
+2023-03-29 10:46:17,389  INFO [main] User Login Page:71 - Password entered with value - Royal@12
+2023-03-29 10:46:17,774  INFO [main] User Login Page:89 - Privacy Policy clicked 
+2023-03-29 10:46:18,593  INFO [main] User Login Page:89 - Login clicked 
+2023-03-29 10:46:26,870  INFO [main] User Login Page:89 - Full Menu clicked 
+2023-03-29 10:46:30,411  INFO [main] User Login Page:89 - Document Storage menu clicked 
+2023-03-29 10:46:38,102  INFO [main] User Login Page:89 - User Storage menu clicked 
+2023-03-29 10:46:41,667  INFO [main] User Login Page:89 - Edit icon of user 1 clicked 
+2023-03-29 10:46:42,231  INFO [main] User Login Page:71 - Allowed storage for user 1 entered with value - 60
+2023-03-29 10:46:43,024  INFO [main] User Login Page:89 - Cancel button for user 1 clicked 
+2023-03-29 10:46:43,091  INFO [main] User Login Page:82 - The Allowed storage field is disabled as expected when click on the cancel button
+2023-03-29 10:46:43,855  INFO [main] User Login Page:89 - Edit icon of user 1 clicked 
+2023-03-29 10:46:44,385  INFO [main] User Login Page:71 - Allowed storage for user 1 entered with value - 21
+2023-03-29 10:46:50,726  INFO [main] User Login Page:89 - Save button of user 1 clicked 
+2023-03-29 10:46:54,254  INFO [main] User Login Page:89 - Edit icon of user 2 clicked 
+2023-03-29 10:46:54,773  INFO [main] User Login Page:71 - Allowed storage for user 2 entered with value - 52
+2023-03-29 10:47:01,182  INFO [main] User Login Page:89 - Save button of user 2 clicked 
+2023-03-29 10:47:04,941  INFO [main] User Login Page:89 - Edit icon of user 3 clicked 
+2023-03-29 10:47:05,435  INFO [main] User Login Page:71 - Allowed storage for user 3 entered with value - 88
+2023-03-29 10:47:11,684  INFO [main] User Login Page:89 - Save button of user 3 clicked 
+2023-03-29 10:47:15,537  INFO [main] User Login Page:257 -  Text displayed is  - 161
+2023-03-29 10:47:15,539  INFO [main] User Login Page:138 - The Allotted counts of each user 161.0 is equal to the total count in the table - 161.0
+2023-03-29 10:47:15,606  INFO [main] User Login Page:257 -  Text displayed is  - 161
+2023-03-29 10:47:15,606  INFO [main] User Login Page:151 - The sum of allotted storage displayed in the table 161.0 is equal to the value displayed along with the  "Assigned To User" header - 161.0
+2023-03-29 10:47:28,083  INFO [main] User Login Page:242 - Logout menu click by JS
+2023-03-29 10:47:32,949  INFO [main] User Login Page:242 - Logout click by JS
+2023-03-29 10:47:34,515  INFO [main] User Login Page:71 - User Name entered with value - gyal@mailinator.com
+2023-03-29 10:47:34,977  INFO [main] User Login Page:71 - Password entered with value - Royal@12
+2023-03-29 10:47:35,341  INFO [main] User Login Page:89 - Privacy Policy clicked 
+2023-03-29 10:47:35,709  INFO [main] User Login Page:89 - Privacy Policy clicked 
+2023-03-29 10:47:36,418  INFO [main] User Login Page:89 - Login clicked 
+2023-03-29 10:47:43,908  INFO [main] User Login Page:89 - Full Menu clicked 
+2023-03-29 10:47:47,292  INFO [main] User Login Page:89 - Document Storage menu clicked 
+2023-03-29 10:47:53,736  INFO [main] User Login Page:89 - User Storage menu clicked 
+2023-03-29 10:47:55,889  INFO [main] User Login Page:89 - Department search clicked 
+2023-03-29 10:47:56,023  INFO [main] User Login Page:257 -  Text displayed is  - Human Resource
+2023-03-29 10:47:57,213  INFO [main] User Login Page:89 - Department option clicked 
+2023-03-29 10:47:58,143  INFO [main] User Login Page:89 - Search Button clicked 
+2023-03-29 10:48:06,269  INFO [main] User Login Page:193 - Selected department Human Resource is displayed as expected when search button is clicked
+2023-03-29 10:48:12,331  INFO [main] User Login Page:89 - Storage search reset clicked 
+2023-03-29 10:48:14,342  INFO [main] User Login Page:89 - Designation Search field clicked 
+2023-03-29 10:48:17,616  INFO [main] User Login Page:89 - Designation Search option clicked 
+2023-03-29 10:48:18,436  INFO [main] User Login Page:89 - Search Button clicked 
+2023-03-29 10:48:26,921  INFO [main] User Login Page:241 - Searched result for CEO designation is displayed as expected when click on the search button
+2023-03-29 10:48:32,555  INFO [main] User Login Page:89 - Storage search reset clicked 
+2023-03-29 10:48:34,443  INFO [main] User Login Page:89 - User Name search field clicked 
+2023-03-29 10:48:34,518  INFO [main] User Login Page:257 -  Text displayed is  - ginny .
+2023-03-29 10:48:35,002  INFO [main] User Login Page:71 - User Name Search box entered with value - ginny .
+2023-03-29 10:48:35,842  INFO [main] User Login Page:89 - Search Button clicked 
+2023-03-29 10:49:10,746  INFO [main] User Login Page:286 - Search result for ginny . is not displayed
+2023-03-29 10:49:16,911  INFO [main] User Login Page:89 - Storage search reset clicked 
+2023-03-29 10:49:18,835  INFO [main] User Login Page:89 - Consumed Storage field clicked 
+2023-03-29 10:49:18,912  INFO [main] User Login Page:257 -  Text displayed is  - 6.92
+2023-03-29 10:49:19,345  INFO [main] User Login Page:71 - Consumed storage search field entered with value - 6.92
+2023-03-29 10:49:20,195  INFO [main] User Login Page:89 - Search Button clicked 
+2023-03-29 10:49:25,095  INFO [main] User Login Page:326 - Search result for 6.92 consumed storage is displayed as expected
+2023-03-29 10:49:30,897  INFO [main] User Login Page:89 - Storage search reset clicked 
+2023-03-29 10:49:44,316  INFO [main] User Login Page:242 - Logout menu click by JS
+2023-03-29 10:49:49,184  INFO [main] User Login Page:242 - Logout click by JS
+2023-03-29 10:49:50,565  INFO [main] User Login Page:71 - User Name entered with value - gyal@mailinator.com
+2023-03-29 10:49:50,990  INFO [main] User Login Page:71 - Password entered with value - Royal@12
+2023-03-29 10:49:51,379  INFO [main] User Login Page:89 - Privacy Policy clicked 
+2023-03-29 10:49:51,776  INFO [main] User Login Page:89 - Privacy Policy clicked 
+2023-03-29 10:49:52,513  INFO [main] User Login Page:89 - Login clicked 
+2023-03-29 10:50:00,185  INFO [main] User Login Page:89 - Full Menu clicked 
+2023-03-29 10:50:03,674  INFO [main] User Login Page:89 - Document Storage menu clicked 
+2023-03-29 10:50:09,813  INFO [main] User Login Page:89 - User Storage menu clicked 
+2023-03-29 10:50:16,827  INFO [main] User Login Page:89 - User Name clicked 
+2023-03-29 10:50:22,238  INFO [main] User Login Page:506 - UserNames are sorted in ascending Order when click the UserName header for one time
+2023-03-29 10:50:27,982  INFO [main] User Login Page:89 - User Name clicked 
+2023-03-29 10:50:33,663  INFO [main] User Login Page:532 - UserNames are sorted in descending Order when click the UserName header for two times
+2023-03-29 10:50:39,470  INFO [main] User Login Page:89 - Designation clicked 
+2023-03-29 10:50:45,390  INFO [main] User Login Page:506 - Designations are sorted in ascending Order when click the Designation header for one time
+2023-03-29 10:50:51,611  INFO [main] User Login Page:89 - Designation clicked 
+2023-03-29 10:50:57,890  INFO [main] User Login Page:532 - Designations are sorted in descending Order when click the Designation header for two times
+2023-03-29 10:51:04,482  INFO [main] User Login Page:89 - Department header clicked 
+2023-03-29 10:51:11,038  INFO [main] User Login Page:506 - Departments are sorted in ascending Order when click the Department header for one time
+2023-03-29 10:51:16,729  INFO [main] User Login Page:89 - Department header clicked 
+2023-03-29 10:51:23,125  INFO [main] User Login Page:532 - Departments are sorted in descending Order when click the Department header for two times
+2023-03-29 10:51:28,829  INFO [main] User Login Page:89 - Status header clicked 
+2023-03-29 10:51:34,848  INFO [main] User Login Page:506 - Statuss are sorted in ascending Order when click the Status header for one time
+2023-03-29 10:51:40,737  INFO [main] User Login Page:89 - Status header clicked 
+2023-03-29 10:51:47,047  INFO [main] User Login Page:532 - Statuss are sorted in descending Order when click the Status header for two times
+2023-03-29 10:51:53,164  INFO [main] User Login Page:89 - Consumed Storage header clicked 
+2023-03-29 10:51:59,312  INFO [main] User Login Page:506 - Consumed Storages are sorted in ascending Order when click the Consumed Storage header for one time
+2023-03-29 10:52:05,490  INFO [main] User Login Page:89 - Consumed Storage header clicked 
+2023-03-29 10:52:11,510  INFO [main] User Login Page:532 - Consumed Storages are sorted in descending Order when click the Consumed Storage header for two times
+2023-03-29 10:52:17,709  INFO [main] User Login Page:89 - Allowed Storage header clicked 
+2023-03-29 10:52:21,397  INFO [main] User Login Page:481 - Allowed Storage are sorted in ascending Order when click the Allowed Storage header for one time
+2023-03-29 10:52:27,418  INFO [main] User Login Page:89 - Allowed Storage header clicked 
+2023-03-29 10:52:31,217  INFO [main] User Login Page:481 - Allowed Storage are sorted in descending Order when click the Allowed Storage header for one time
+2023-07-20 21:38:09,452  INFO [main] User Login Page:71 - User Name entered with value - gyal@mailinator.com
+2023-07-20 21:38:09,996  INFO [main] User Login Page:71 - Password entered with value - Royal@12
+2023-07-20 21:38:10,395  INFO [main] User Login Page:89 - Privacy Policy clicked 
+2023-07-20 21:38:11,180  INFO [main] User Login Page:89 - Login clicked 
+2023-07-20 21:38:24,876  INFO [main] User Login Page:89 - Full Menu clicked 
+2023-07-20 21:38:28,353  INFO [main] User Login Page:89 - Document Storage menu clicked 
+2023-07-20 21:38:41,468  INFO [main] User Login Page:89 - Manage Client Storage menu clicked 
+2023-07-20 21:39:00,405  INFO [main] User Login Page:99 - Expand and Collpase not clicked
+2023-07-20 21:39:01,098  INFO [main] ClientStorageTest-verifyStorageCounts:78 - Method - verifyStorageCounts failed , see the screenshot - C:\Users\aanand\eclipse-workspace\Document-Storage-Module-AmanBranch\Document-Storage-Module-AmanBranch\Document-Storage-Module-master\reports\verifyStorageCounts_20230720213900.png
+2023-07-20 21:54:40,435  INFO [main] User Login Page:71 - User Name entered with value - gyal@mailinator.com
+2023-07-20 21:54:40,894  INFO [main] User Login Page:71 - Password entered with value - Royal@12
+2023-07-20 21:54:41,275  INFO [main] User Login Page:89 - Privacy Policy clicked 
+2023-07-20 21:54:41,979  INFO [main] User Login Page:89 - Login clicked 
+2023-07-20 21:54:52,144  INFO [main] User Login Page:89 - Full Menu clicked 
+2023-07-20 21:54:55,595  INFO [main] User Login Page:89 - Document Storage menu clicked 
+2023-07-20 21:55:31,659  INFO [main] User Login Page:89 - Manage Client Storage menu clicked 
+2023-07-20 21:55:50,024  INFO [main] User Login Page:99 - Expand and Collpase not clicked
+2023-07-20 21:55:50,637  INFO [main] ClientStorageTest-verifyStorageCounts:78 - Method - verifyStorageCounts failed , see the screenshot - C:\Users\aanand\eclipse-workspace\Document-Storage-Module-AmanBranch\Document-Storage-Module-AmanBranch\Document-Storage-Module-master\reports\verifyStorageCounts_20230720215550.png
+2023-07-20 22:04:38,206  INFO [main] User Login Page:71 - User Name entered with value - gyal@mailinator.com
+2023-07-20 22:04:38,710  INFO [main] User Login Page:71 - Password entered with value - Royal@12
+2023-07-20 22:04:39,090  INFO [main] User Login Page:89 - Privacy Policy clicked 
+2023-07-20 22:04:39,783  INFO [main] User Login Page:89 - Login clicked 
+2023-07-20 22:04:49,243  INFO [main] User Login Page:89 - Full Menu clicked 
+2023-07-20 22:04:52,694  INFO [main] User Login Page:89 - Document Storage menu clicked 
+2023-07-20 22:05:09,502  INFO [main] User Login Page:89 - Manage Client Storage menu clicked 
+2023-07-20 22:05:29,739  INFO [main] User Login Page:99 - Expand and Collpase not clicked
+2023-07-20 22:05:30,348  INFO [main] ClientStorageTest-verifyStorageCounts:78 - Method - verifyStorageCounts failed , see the screenshot - C:\Users\aanand\eclipse-workspace\Document-Storage-Module-AmanBranch\Document-Storage-Module-AmanBranch\Document-Storage-Module-master\reports\verifyStorageCounts_20230720220530.png
+2023-07-20 22:06:58,354  INFO [main] User Login Page:71 - User Name entered with value - gyal@mailinator.com
+2023-07-20 22:06:58,799  INFO [main] User Login Page:71 - Password entered with value - Royal@12
+2023-07-20 22:06:59,147  INFO [main] User Login Page:89 - Privacy Policy clicked 
+2023-07-20 22:06:59,905  INFO [main] User Login Page:89 - Login clicked 
+2023-07-20 22:07:12,475  INFO [main] User Login Page:89 - Full Menu clicked 
+2023-07-20 22:07:15,938  INFO [main] User Login Page:89 - Document Storage menu clicked 
+2023-07-20 22:07:34,407  INFO [main] User Login Page:89 - User Storage menu clicked 

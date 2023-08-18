@@ -1,316 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="2" total="14" passed="12" failed="0" skipped="0">
+<testng-results ignored="2" total="3" passed="0" failed="1" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-12-08T16:36:43 IST" name="Suite" finished-at="2022-12-08T16:52:24 IST" duration-ms="941331">
+  <suite started-at="2023-07-20T22:04:28 IST" name="Default suite" finished-at="2023-07-20T22:05:30 IST" duration-ms="62053">
     <groups>
     </groups>
-    <test started-at="2022-12-08T16:36:43 IST" name="DocStorage" finished-at="2022-12-08T16:52:24 IST" duration-ms="941331">
-      <class name="testcases.UserStorageTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.UserStorageTest@28eaa59a]" started-at="2022-12-08T16:40:03 IST" name="setUp" finished-at="2022-12-08T16:40:14 IST" duration-ms="10363" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setUp -->
-        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.UserStorageTest@28eaa59a]" started-at="2022-12-08T16:40:14 IST" name="beforeMethod" finished-at="2022-12-08T16:40:14 IST" duration-ms="1" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[public void testcases.UserStorageTest.verifyStorageCounts()]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method signature="verifyStorageCounts()[pri:1, instance:testcases.UserStorageTest@28eaa59a]" started-at="2022-12-08T16:40:14 IST" name="verifyStorageCounts" finished-at="2022-12-08T16:41:07 IST" duration-ms="52761" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- verifyStorageCounts -->
-        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.UserStorageTest@28eaa59a]" started-at="2022-12-08T16:41:07 IST" name="reportWrapUp" finished-at="2022-12-08T16:41:07 IST" duration-ms="0" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=verifyStorageCounts status=SUCCESS method=UserStorageTest.verifyStorageCounts()[pri:1, instance:testcases.UserStorageTest@28eaa59a] output={null}]]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[public void testcases.UserStorageTest.verifyStorageCounts()]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- reportWrapUp -->
-        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.UserStorageTest@28eaa59a]" started-at="2022-12-08T16:41:07 IST" name="beforeMethod" finished-at="2022-12-08T16:41:07 IST" duration-ms="1" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[public void testcases.UserStorageTest.verifySearchFunctionality()]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method signature="verifySearchFunctionality()[pri:2, instance:testcases.UserStorageTest@28eaa59a]" started-at="2022-12-08T16:41:07 IST" name="verifySearchFunctionality" finished-at="2022-12-08T16:42:57 IST" duration-ms="110748" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- verifySearchFunctionality -->
-        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.UserStorageTest@28eaa59a]" started-at="2022-12-08T16:42:57 IST" name="reportWrapUp" finished-at="2022-12-08T16:42:57 IST" duration-ms="0" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=verifySearchFunctionality status=SUCCESS method=UserStorageTest.verifySearchFunctionality()[pri:2, instance:testcases.UserStorageTest@28eaa59a] output={null}]]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[public void testcases.UserStorageTest.verifySearchFunctionality()]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- reportWrapUp -->
-        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.UserStorageTest@28eaa59a]" started-at="2022-12-08T16:42:57 IST" name="beforeMethod" finished-at="2022-12-08T16:42:57 IST" duration-ms="1" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[public void testcases.UserStorageTest.verifySortingFunctionality()]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method signature="verifySortingFunctionality()[pri:3, instance:testcases.UserStorageTest@28eaa59a]" started-at="2022-12-08T16:42:57 IST" name="verifySortingFunctionality" finished-at="2022-12-08T16:45:00 IST" duration-ms="122643" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- verifySortingFunctionality -->
-        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.UserStorageTest@28eaa59a]" started-at="2022-12-08T16:45:00 IST" name="reportWrapUp" finished-at="2022-12-08T16:45:00 IST" duration-ms="1" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=verifySortingFunctionality status=SUCCESS method=UserStorageTest.verifySortingFunctionality()[pri:3, instance:testcases.UserStorageTest@28eaa59a] output={null}]]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[public void testcases.UserStorageTest.verifySortingFunctionality()]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- reportWrapUp -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testcases.UserStorageTest@28eaa59a]" started-at="2022-12-08T16:45:00 IST" name="closeBrowser" finished-at="2022-12-08T16:45:00 IST" duration-ms="477" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- closeBrowser -->
-      </class> <!-- testcases.UserStorageTest -->
-      <class name="testcases.FileDashBoardTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.FileDashBoardTest@41fbdac4]" started-at="2022-12-08T16:45:00 IST" name="setUp" finished-at="2022-12-08T16:45:11 IST" duration-ms="10161" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setUp -->
-        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.FileDashBoardTest@41fbdac4]" started-at="2022-12-08T16:45:11 IST" name="beforeMethod" finished-at="2022-12-08T16:45:11 IST" duration-ms="1" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[public void testcases.FileDashBoardTest.verifyMandatoryErrorMessage()]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method signature="verifyMandatoryErrorMessage()[pri:1, instance:testcases.FileDashBoardTest@41fbdac4]" started-at="2022-12-08T16:45:11 IST" name="verifyMandatoryErrorMessage" finished-at="2022-12-08T16:45:39 IST" duration-ms="27994" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- verifyMandatoryErrorMessage -->
-        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.FileDashBoardTest@41fbdac4]" started-at="2022-12-08T16:45:39 IST" name="reportWrapUp" finished-at="2022-12-08T16:45:39 IST" duration-ms="1" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=verifyMandatoryErrorMessage status=SUCCESS method=FileDashBoardTest.verifyMandatoryErrorMessage()[pri:1, instance:testcases.FileDashBoardTest@41fbdac4] output={null}]]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[public void testcases.FileDashBoardTest.verifyMandatoryErrorMessage()]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- reportWrapUp -->
-        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.FileDashBoardTest@41fbdac4]" started-at="2022-12-08T16:45:39 IST" name="beforeMethod" finished-at="2022-12-08T16:45:39 IST" duration-ms="1" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[public void testcases.FileDashBoardTest.createAndUpdateFolderFunctionality()]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method signature="createAndUpdateFolderFunctionality()[pri:2, instance:testcases.FileDashBoardTest@41fbdac4]" started-at="2022-12-08T16:45:39 IST" name="createAndUpdateFolderFunctionality" finished-at="2022-12-08T16:46:52 IST" duration-ms="73371" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- createAndUpdateFolderFunctionality -->
-        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.FileDashBoardTest@41fbdac4]" started-at="2022-12-08T16:46:52 IST" name="reportWrapUp" finished-at="2022-12-08T16:46:52 IST" duration-ms="0" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=createAndUpdateFolderFunctionality status=SUCCESS method=FileDashBoardTest.createAndUpdateFolderFunctionality()[pri:2, instance:testcases.FileDashBoardTest@41fbdac4] output={null}]]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[public void testcases.FileDashBoardTest.createAndUpdateFolderFunctionality()]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- reportWrapUp -->
-        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.FileDashBoardTest@41fbdac4]" started-at="2022-12-08T16:46:52 IST" name="beforeMethod" finished-at="2022-12-08T16:46:52 IST" duration-ms="0" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[public void testcases.FileDashBoardTest.fileUploadResetFunctionality()]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method signature="fileUploadResetFunctionality()[pri:3, instance:testcases.FileDashBoardTest@41fbdac4]" started-at="2022-12-08T16:46:52 IST" name="fileUploadResetFunctionality" finished-at="2022-12-08T16:48:12 IST" duration-ms="80293" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- fileUploadResetFunctionality -->
-        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.FileDashBoardTest@41fbdac4]" started-at="2022-12-08T16:48:12 IST" name="reportWrapUp" finished-at="2022-12-08T16:48:12 IST" duration-ms="1" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=fileUploadResetFunctionality status=SUCCESS method=FileDashBoardTest.fileUploadResetFunctionality()[pri:3, instance:testcases.FileDashBoardTest@41fbdac4] output={null}]]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[public void testcases.FileDashBoardTest.fileUploadResetFunctionality()]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- reportWrapUp -->
-        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.FileDashBoardTest@41fbdac4]" started-at="2022-12-08T16:48:12 IST" name="beforeMethod" finished-at="2022-12-08T16:48:12 IST" duration-ms="0" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[public void testcases.FileDashBoardTest.fileMoveFunctionality()]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method signature="fileMoveFunctionality()[pri:4, instance:testcases.FileDashBoardTest@41fbdac4]" started-at="2022-12-08T16:48:12 IST" name="fileMoveFunctionality" finished-at="2022-12-08T16:49:24 IST" duration-ms="71835" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- fileMoveFunctionality -->
-        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.FileDashBoardTest@41fbdac4]" started-at="2022-12-08T16:49:24 IST" name="reportWrapUp" finished-at="2022-12-08T16:49:24 IST" duration-ms="0" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=fileMoveFunctionality status=SUCCESS method=FileDashBoardTest.fileMoveFunctionality()[pri:4, instance:testcases.FileDashBoardTest@41fbdac4] output={null}]]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[public void testcases.FileDashBoardTest.fileMoveFunctionality()]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- reportWrapUp -->
-        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.FileDashBoardTest@41fbdac4]" started-at="2022-12-08T16:49:24 IST" name="beforeMethod" finished-at="2022-12-08T16:49:24 IST" duration-ms="1" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[public void testcases.FileDashBoardTest.fileCloneAndDeleteFunctionality()]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method signature="fileCloneAndDeleteFunctionality()[pri:5, instance:testcases.FileDashBoardTest@41fbdac4]" started-at="2022-12-08T16:49:24 IST" name="fileCloneAndDeleteFunctionality" finished-at="2022-12-08T16:51:01 IST" duration-ms="96796" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- fileCloneAndDeleteFunctionality -->
-        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.FileDashBoardTest@41fbdac4]" started-at="2022-12-08T16:51:01 IST" name="reportWrapUp" finished-at="2022-12-08T16:51:01 IST" duration-ms="1" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=fileCloneAndDeleteFunctionality status=SUCCESS method=FileDashBoardTest.fileCloneAndDeleteFunctionality()[pri:5, instance:testcases.FileDashBoardTest@41fbdac4] output={null}]]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[public void testcases.FileDashBoardTest.fileCloneAndDeleteFunctionality()]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- reportWrapUp -->
-        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.FileDashBoardTest@41fbdac4]" started-at="2022-12-08T16:51:01 IST" name="beforeMethod" finished-at="2022-12-08T16:51:01 IST" duration-ms="1" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[public void testcases.FileDashBoardTest.fileDownloadRenameFunctionality()]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method signature="fileDownloadRenameFunctionality()[pri:6, instance:testcases.FileDashBoardTest@41fbdac4]" started-at="2022-12-08T16:51:01 IST" name="fileDownloadRenameFunctionality" finished-at="2022-12-08T16:52:23 IST" duration-ms="82178" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- fileDownloadRenameFunctionality -->
-        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.FileDashBoardTest@41fbdac4]" started-at="2022-12-08T16:52:23 IST" name="reportWrapUp" finished-at="2022-12-08T16:52:23 IST" duration-ms="1" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=fileDownloadRenameFunctionality status=SUCCESS method=FileDashBoardTest.fileDownloadRenameFunctionality()[pri:6, instance:testcases.FileDashBoardTest@41fbdac4] output={null}]]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[public void testcases.FileDashBoardTest.fileDownloadRenameFunctionality()]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- reportWrapUp -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testcases.FileDashBoardTest@41fbdac4]" started-at="2022-12-08T16:52:23 IST" name="closeBrowser" finished-at="2022-12-08T16:52:24 IST" duration-ms="831" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- closeBrowser -->
-      </class> <!-- testcases.FileDashBoardTest -->
+    <test started-at="2023-07-20T22:04:28 IST" name="Default test" finished-at="2023-07-20T22:05:30 IST" duration-ms="62053">
       <class name="testcases.ClientStorageTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.ClientStorageTest@4ac3c60d]" started-at="2022-12-08T16:36:43 IST" name="setUp" finished-at="2022-12-08T16:36:57 IST" duration-ms="14317" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.ClientStorageTest@50b472aa]" started-at="2023-07-20T22:04:28 IST" name="setUp" finished-at="2023-07-20T22:04:37 IST" duration-ms="8374" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.ClientStorageTest@4ac3c60d]" started-at="2022-12-08T16:36:57 IST" name="beforeMethod" finished-at="2022-12-08T16:36:57 IST" duration-ms="135" status="PASS">
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.ClientStorageTest@50b472aa]" started-at="2023-07-20T22:04:37 IST" name="beforeMethod" finished-at="2023-07-20T22:04:37 IST" duration-ms="153" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -321,15 +22,57 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="verifyStorageCounts()[pri:1, instance:testcases.ClientStorageTest@4ac3c60d]" started-at="2022-12-08T16:36:57 IST" name="verifyStorageCounts" finished-at="2022-12-08T16:37:52 IST" duration-ms="54871" status="PASS">
+        <test-method signature="verifyStorageCounts()[pri:1, instance:testcases.ClientStorageTest@50b472aa]" started-at="2023-07-20T22:04:37 IST" name="verifyStorageCounts" finished-at="2023-07-20T22:05:30 IST" duration-ms="52827" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[Expand and Collpase -  element not present]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: Expand and Collpase -  element not present
+at org.testng.Assert.fail(Assert.java:99)
+at utils.WebBasePage.click(WebBasePage.java:102)
+at pageobjects.ClientStoragePage.expandAndCollapse(ClientStoragePage.java:88)
+at Action.ClientStorageAction.navigateToClientStoragePageAndExpand(ClientStorageAction.java:27)
+at testcases.ClientStorageTest.verifyStorageCounts(ClientStorageTest.java:26)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyStorageCounts -->
-        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.ClientStorageTest@4ac3c60d]" started-at="2022-12-08T16:37:52 IST" name="reportWrapUp" finished-at="2022-12-08T16:37:52 IST" duration-ms="3" status="PASS">
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.ClientStorageTest@50b472aa]" started-at="2023-07-20T22:05:30 IST" name="reportWrapUp" finished-at="2023-07-20T22:05:30 IST" duration-ms="272" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=verifyStorageCounts status=SUCCESS method=ClientStorageTest.verifyStorageCounts()[pri:1, instance:testcases.ClientStorageTest@4ac3c60d] output={null}]]]>
+                <![CDATA[[TestResult name=verifyStorageCounts status=FAILURE method=ClientStorageTest.verifyStorageCounts()[pri:1, instance:testcases.ClientStorageTest@50b472aa] output={null}]]]>
               </value>
             </param>
             <param index="1">
@@ -341,77 +84,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- reportWrapUp -->
-        <test-method signature="verifySearchFunctionality()[pri:2, instance:testcases.ClientStorageTest@4ac3c60d]" started-at="2022-12-08T16:37:52 IST" name="verifySearchFunctionality" finished-at="2022-12-08T16:38:36 IST" duration-ms="43781" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- verifySearchFunctionality -->
-        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.ClientStorageTest@4ac3c60d]" started-at="2022-12-08T16:37:52 IST" name="beforeMethod" finished-at="2022-12-08T16:37:52 IST" duration-ms="0" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[public void testcases.ClientStorageTest.verifySearchFunctionality()]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.ClientStorageTest@4ac3c60d]" started-at="2022-12-08T16:38:36 IST" name="reportWrapUp" finished-at="2022-12-08T16:38:36 IST" duration-ms="1" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=verifySearchFunctionality status=SUCCESS method=ClientStorageTest.verifySearchFunctionality()[pri:2, instance:testcases.ClientStorageTest@4ac3c60d] output={null}]]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[public void testcases.ClientStorageTest.verifySearchFunctionality()]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- reportWrapUp -->
-        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.ClientStorageTest@4ac3c60d]" started-at="2022-12-08T16:38:36 IST" name="beforeMethod" finished-at="2022-12-08T16:38:36 IST" duration-ms="1" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[public void testcases.ClientStorageTest.verifySortingFunctionality()]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method signature="verifySortingFunctionality()[pri:3, instance:testcases.ClientStorageTest@4ac3c60d]" started-at="2022-12-08T16:38:36 IST" name="verifySortingFunctionality" finished-at="2022-12-08T16:40:03 IST" duration-ms="87217" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- verifySortingFunctionality -->
-        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.ClientStorageTest@4ac3c60d]" started-at="2022-12-08T16:40:03 IST" name="reportWrapUp" finished-at="2022-12-08T16:40:03 IST" duration-ms="0" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=verifySortingFunctionality status=SUCCESS method=ClientStorageTest.verifySortingFunctionality()[pri:3, instance:testcases.ClientStorageTest@4ac3c60d] output={null}]]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[public void testcases.ClientStorageTest.verifySortingFunctionality()]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- reportWrapUp -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testcases.ClientStorageTest@4ac3c60d]" started-at="2022-12-08T16:40:03 IST" name="closeBrowser" finished-at="2022-12-08T16:40:03 IST" duration-ms="448" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testcases.ClientStorageTest@50b472aa]" started-at="2023-07-20T22:05:30 IST" name="closeBrowser" finished-at="2023-07-20T22:05:30 IST" duration-ms="374" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
-        <test-method is-config="true" signature="close()[pri:0, instance:testcases.ClientStorageTest@4ac3c60d]" started-at="2022-12-08T16:52:24 IST" name="close" finished-at="2022-12-08T16:52:24 IST" duration-ms="467" status="PASS">
+        <test-method is-config="true" signature="close()[pri:0, instance:testcases.ClientStorageTest@50b472aa]" started-at="2023-07-20T22:05:30 IST" name="close" finished-at="2023-07-20T22:05:31 IST" duration-ms="373" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close -->
       </class> <!-- testcases.ClientStorageTest -->
-    </test> <!-- DocStorage -->
-  </suite> <!-- Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>

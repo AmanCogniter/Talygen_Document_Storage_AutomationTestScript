@@ -84,7 +84,7 @@ public class ClientStoragePage extends WebBasePage {
     }
     public void expandAndCollapse()
     {
-    	staticWait(3000);
+    	staticWait(5000);
         click(By.xpath("//a[@onclick='AddExpandCollapse(this)']"), "Expand and Collpase" ,15);
     }
 
